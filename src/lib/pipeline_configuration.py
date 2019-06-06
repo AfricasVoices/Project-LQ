@@ -13,7 +13,13 @@ def _open_scheme(filename):
 
 
 class CodeSchemes(object):
-    pass
+    S01E01_REASONS = None
+
+    AGE = _open_scheme("age.json")
+    LIVELIHOOD = _open_scheme("livelihood.json")
+    GENDER = _open_scheme("gender.json")
+    CONSTITUENCY = _open_scheme("constituency.json")
+    COUNTY = _open_scheme("county.json")
 
 
 class CodingPlan(object):
@@ -39,7 +45,16 @@ class CodingPlan(object):
 
 
 class PipelineConfiguration(object):
-    RQA_CODING_PLANS = []
+    RQA_CODING_PLANS = [
+        CodingPlan(raw_field="rqa_s01e01_raw",
+                   coded_field="rqa_s01e01_coded",
+                   time_field="sent_on",
+                   coda_filename="s01e01.json",
+                   icr_filename="rqa_s01e01.csv",
+                   run_id_field="rqa_s01e01_run_id",
+                   analysis_file_key="rqa_s01e01_",
+                   code_scheme=CodeSchemes.S01E01_REASONS)
+    ]
 
     @staticmethod
     def clean_age_with_range_filter(text):
@@ -58,7 +73,28 @@ class PipelineConfiguration(object):
 
     SURVEY_CODING_PLANS = []
     SURVEY_CODING_PLANS.extend(LOCATION_CODING_PLANS)
-    SURVEY_CODING_PLANS.extend([])
+    SURVEY_CODING_PLANS.extend([
+        CodingPlan(raw_field="gender_raw",
+                   coded_field="gender_coded",
+                   time_field="gender_time",
+                   coda_filename="gender.json",
+                   analysis_file_key="gender",
+                   code_scheme=CodeSchemes.GENDER),
+
+        CodingPlan(raw_field="age_raw",
+                   coded_field="age_coded",
+                   time_field="age_time",
+                   coda_filename="age.json",
+                   analysis_file_key="age",
+                   code_scheme=CodeSchemes.AGE),
+
+        CodingPlan(raw_field="livelihood_raw",
+                   coded_field="livelihood_coded",
+                   time_field="livelihood_time",
+                   coda_filename="livelihood.json",
+                   analysis_file_key="livelihood",
+                   code_scheme=CodeSchemes.LIVELIHOOD)
+    ])
 
     def __init__(self, rapid_pro_domain, rapid_pro_token_file_url, activation_flow_names, survey_flow_names,
                  rapid_pro_test_contact_uuids, phone_number_uuid_table, recovery_csv_urls, rapid_pro_key_remappings,
