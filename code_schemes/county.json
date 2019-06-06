@@ -1,0 +1,597 @@
+{
+    "SchemeID": "Scheme-af6c3ef0",
+    "Name": "County",
+    "Version": "0.0.0.1",
+    "Codes": [
+       {
+            "DisplayText": "nyeri",
+            "VisibleInCoda": true,
+            "NumericValue": 0,
+            "CodeID": "code-9f7f9712",
+            "CodeType": "Normal",
+            "StringValue": "nyeri",
+            "MatchValues": [
+                "nyeri"
+            ]
+        },
+        {
+            "DisplayText": "kirinyaga",
+            "VisibleInCoda": true,
+            "NumericValue": 1,
+            "CodeID": "code-6ff5616f",
+            "CodeType": "Normal",
+            "StringValue": "kirinyaga",
+            "MatchValues": [
+                "kirinyaga"
+            ]
+        },
+        {
+            "DisplayText": "murang'a",
+            "VisibleInCoda": true,
+            "NumericValue": 2,
+            "CodeID": "code-607bec6c",
+            "CodeType": "Normal",
+            "StringValue": "muranga",
+            "MatchValues": [
+                "murang'a"
+            ]
+        },
+
+        {
+           "DisplayText": "baringo",
+           "VisibleInCoda": true,
+           "NumericValue": 3,
+           "CodeID": "code-d87fee17",
+           "CodeType": "Normal",
+           "StringValue": "baringo",
+           "MatchValues": [
+               "baringo"
+           ]
+       },
+	   {
+           "DisplayText": "bomet",
+           "VisibleInCoda": true,
+           "NumericValue": 4,
+           "CodeID": "code-07cab7b4",
+           "CodeType": "Normal",
+           "StringValue": "bomet",
+           "MatchValues": [
+               "bomet"
+           ]
+       },
+	   {
+           "DisplayText": "bungoma",
+           "VisibleInCoda": true,
+           "NumericValue": 5,
+           "CodeID": "code-d44c52b4",
+           "CodeType": "Normal",
+           "StringValue": "bungoma",
+           "MatchValues": [
+               "bungoma"
+           ]
+       },
+	   {
+           "DisplayText": "busia",
+           "VisibleInCoda": true,
+           "NumericValue": 6,
+           "CodeID": "code-fe358835",
+           "CodeType": "Normal",
+           "StringValue": "busia",
+           "MatchValues": [
+               "busia"
+           ]
+       },
+	    {
+           "DisplayText": "elgeyo marakwet",
+           "VisibleInCoda": true,
+           "NumericValue": 7,
+           "CodeID": "code-4e2333e0",
+           "CodeType": "Normal",
+           "StringValue": "elgeyo_marakwet",
+           "MatchValues": [
+               "elgeyo marakwet"
+           ]
+       },
+	   {
+           "DisplayText": "embu",
+           "VisibleInCoda": true,
+           "NumericValue": 8,
+           "CodeID": "code-f5f1f8b7",
+           "CodeType": "Normal",
+           "StringValue": "embu",
+           "MatchValues": [
+               "embu"
+           ]
+       },
+	    {
+           "DisplayText": "garissa",
+           "VisibleInCoda": true,
+           "NumericValue": 9,
+           "CodeID": "code-915318fe",
+           "CodeType": "Normal",
+           "StringValue": "garissa",
+           "MatchValues": [
+               "garissa"
+           ]
+       },
+	   {
+           "DisplayText": "homa bay",
+           "VisibleInCoda": true,
+           "NumericValue": 10,
+           "CodeID": "code-6ea8fed9",
+           "CodeType": "Normal",
+           "StringValue": "homa_bay",
+           "MatchValues": [
+               "homa bay"
+           ]
+       },
+	   {
+           "DisplayText": "isiolo",
+           "VisibleInCoda": true,
+           "NumericValue": 11,
+           "CodeID": "code-ea64f7b4",
+           "CodeType": "Normal",
+           "StringValue": "isiolo",
+           "MatchValues": [
+               "isiolo"
+           ]
+       },
+	    {
+           "DisplayText": "kajiado",
+           "VisibleInCoda": true,
+           "NumericValue": 12,
+           "CodeID": "code-ccc0d7bc",
+           "CodeType": "Normal",
+           "StringValue": "kajiado",
+           "MatchValues": [
+               "kajiado"
+           ]
+       },
+	   {
+           "DisplayText": "kakamega",
+           "VisibleInCoda": true,
+           "NumericValue": 13,
+           "CodeID": "code-7e60db65",
+           "CodeType": "Normal",
+           "StringValue": "kakamega",
+           "MatchValues": [
+               "kakamega"
+           ]
+       },
+	    {
+           "DisplayText": "kericho",
+           "VisibleInCoda": true,
+           "NumericValue": 14,
+           "CodeID": "code-1ac0821e",
+           "CodeType": "Normal",
+           "StringValue": "kericho",
+           "MatchValues": [
+               "kericho"
+           ]
+       },
+	     {
+           "DisplayText": "kiambu",
+           "VisibleInCoda": true,
+           "NumericValue": 15,
+           "CodeID": "code-ce38a3c0",
+           "CodeType": "Normal",
+           "StringValue": "kiambu",
+           "MatchValues": [
+               "kiambu"
+           ]
+       },
+	   {
+           "DisplayText": "kilifi",
+           "VisibleInCoda": true,
+           "NumericValue": 16,
+           "CodeID": "code-80c34fcb",
+           "CodeType": "Normal",
+           "StringValue": "kilifi",
+           "MatchValues": [
+               "kilifi"
+           ]
+       },
+	   {
+           "DisplayText": "nakuru",
+           "VisibleInCoda": true,
+           "NumericValue": 17,
+           "CodeID": "code-ccf96206",
+           "CodeType": "Normal",
+           "StringValue": "nakuru",
+           "MatchValues": [
+               "nakuru"
+           ]
+       },
+	    {
+           "DisplayText": "kisii",
+           "VisibleInCoda": true,
+           "NumericValue": 18,
+           "CodeID": "code-ff587bc2",
+           "CodeType": "Normal",
+           "StringValue": "kisii",
+           "MatchValues": [
+               "kisii"
+           ]
+       },
+	    {
+           "DisplayText": "kisumu",
+           "VisibleInCoda": true,
+           "NumericValue": 19,
+           "CodeID": "code-c33beb50",
+           "CodeType": "Normal",
+           "StringValue": "kisumu",
+           "MatchValues": [
+               "kisumu"
+           ]
+       },
+	    {
+           "DisplayText": "kitui",
+           "VisibleInCoda": true,
+           "NumericValue": 20,
+           "CodeID": "code-a9679a64",
+           "CodeType": "Normal",
+           "StringValue": "kitui",
+           "MatchValues": [
+               "kitui"
+           ]
+       },
+	   {
+           "DisplayText": "kwale",
+           "VisibleInCoda": true,
+           "NumericValue": 21,
+           "CodeID": "code-eb1b795f",
+           "CodeType": "Normal",
+           "StringValue": "kwale",
+           "MatchValues": [
+               "kwale"
+           ]
+       },
+	    {
+           "DisplayText": "laikipia",
+           "VisibleInCoda": true,
+           "NumericValue": 22,
+           "CodeID": "code-6d8ebc01",
+           "CodeType": "Normal",
+           "StringValue": "laikipia",
+           "MatchValues": [
+               "laikipia"
+           ]
+       },
+	    {
+           "DisplayText": "machakos",
+           "VisibleInCoda": true,
+           "NumericValue": 23,
+           "CodeID": "code-200d8b4b",
+           "CodeType": "Normal",
+           "StringValue": "machakos",
+           "MatchValues": [
+               "machakos"
+           ]
+       },
+	    {
+           "DisplayText": "makueni",
+           "VisibleInCoda": true,
+           "NumericValue": 24,
+           "CodeID": "code-99f1aae2",
+           "CodeType": "Normal",
+           "StringValue": "makueni",
+           "MatchValues": [
+               "makueni"
+           ]
+       },
+	    {
+           "DisplayText": "mandera",
+           "VisibleInCoda": true,
+           "NumericValue": 25,
+           "CodeID": "code-d1f6da00",
+           "CodeType": "Normal",
+           "StringValue": "mandera",
+           "MatchValues": [
+               "mandera"
+           ]
+       },
+	    {
+           "DisplayText": "marsabit",
+           "VisibleInCoda": true,
+           "NumericValue": 26,
+           "CodeID": "code-f247f6b5",
+           "CodeType": "Normal",
+           "StringValue": "marsabit",
+           "MatchValues": [
+               "marsabit"
+           ]
+       },
+	    {
+           "DisplayText": "meru",
+           "VisibleInCoda": true,
+           "NumericValue": 27,
+           "CodeID": "code-1ac0ded3",
+           "CodeType": "Normal",
+           "StringValue": "meru",
+           "MatchValues": [
+               "meru"
+           ]
+       },
+	   {
+           "DisplayText": "migori",
+           "VisibleInCoda": true,
+           "NumericValue": 28,
+           "CodeID": "code-fcdd860c",
+           "CodeType": "Normal",
+           "StringValue": "migori",
+           "MatchValues": [
+               "migori"
+           ]
+       },
+	   {
+           "DisplayText": "mombasa",
+           "VisibleInCoda": true,
+           "NumericValue": 29,
+           "CodeID": "code-9c866083",
+           "CodeType": "Normal",
+           "StringValue": "mombasa",
+           "MatchValues": [
+               "mombasa"
+           ]
+       },
+	    {
+           "DisplayText": "nairobi",
+           "VisibleInCoda": true,
+           "NumericValue": 30,
+           "CodeID": "code-9f581e05",
+           "CodeType": "Normal",
+           "StringValue": "nairobi",
+           "MatchValues": [
+               "nairobi"
+           ]
+       },
+	    {
+           "DisplayText": "nandi",
+           "VisibleInCoda": true,
+           "NumericValue": 31,
+           "CodeID": "code-ded4dcc9",
+           "CodeType": "Normal",
+           "StringValue": "nandi",
+           "MatchValues": [
+               "nandi"
+           ]
+       },
+	     {
+           "DisplayText": "narok",
+           "VisibleInCoda": true,
+           "NumericValue": 32,
+           "CodeID": "code-2640aeb0",
+           "CodeType": "Normal",
+           "StringValue": "narok",
+           "MatchValues": [
+               "narok"
+           ]
+       },
+	    {
+           "DisplayText": "nyamira",
+           "VisibleInCoda": true,
+           "NumericValue": 33,
+           "CodeID": "code-ee9b024d",
+           "CodeType": "Normal",
+           "StringValue": "nyamira",
+           "MatchValues": [
+               "nyamira"
+           ]
+       },
+	    {
+           "DisplayText": "nyandarua",
+           "VisibleInCoda": true,
+           "NumericValue": 34,
+           "CodeID": "code-03aff04f",
+           "CodeType": "Normal",
+           "StringValue": "nyandarua",
+           "MatchValues": [
+               "nyandarua"
+           ]
+       },
+	    {
+           "DisplayText": "samburu",
+           "VisibleInCoda": true,
+           "NumericValue": 35,
+           "CodeID": "code-f3e716e5",
+           "CodeType": "Normal",
+           "StringValue": "samburu",
+           "MatchValues": [
+               "samburu"
+           ]
+       },
+	    {
+           "DisplayText": "taita taveta",
+           "VisibleInCoda": true,
+           "NumericValue": 36,
+           "CodeID": "code-a05e615d",
+           "CodeType": "Normal",
+           "StringValue": "taita_taveta",
+           "MatchValues": [
+               "taita taveta"
+           ]
+       },
+	     {
+           "DisplayText": "tharaka nithi",
+           "VisibleInCoda": true,
+           "NumericValue": 37,
+           "CodeID": "code-0caef052",
+           "CodeType": "Normal",
+           "StringValue": "tharaka_nithi",
+           "MatchValues": [
+               "tharaka nithi"
+           ]
+       },
+	    {
+           "DisplayText": "trans nzoia",
+           "VisibleInCoda": true,
+           "NumericValue": 38,
+           "CodeID": "code-be7e288b",
+           "CodeType": "Normal",
+           "StringValue": "trans_nzoia",
+           "MatchValues": [
+               "trans nzoia"
+           ]
+       },
+	    {
+           "DisplayText": "turkana",
+           "VisibleInCoda": true,
+           "NumericValue": 39,
+           "CodeID": "code-e39dec1e",
+           "CodeType": "Normal",
+           "StringValue": "turkana",
+           "MatchValues": [
+               "turkana"
+           ]
+       },
+	    {
+           "DisplayText": "uasin gishu",
+           "VisibleInCoda": true,
+           "NumericValue": 40,
+           "CodeID": "code-a342709b",
+           "CodeType": "Normal",
+           "StringValue": "uasin_gishu",
+           "MatchValues": [
+               "uasin gishu"
+           ]
+       },
+	   {
+           "DisplayText": "vihiga",
+           "VisibleInCoda": true,
+           "NumericValue": 41,
+           "CodeID": "code-afcb698a",
+           "CodeType": "Normal",
+           "StringValue": "vihiga",
+           "MatchValues": [
+               "vihiga"
+           ]
+       },
+	    {
+           "DisplayText": "wajir",
+           "VisibleInCoda": true,
+           "NumericValue": 42,
+           "CodeID": "code-38dd1b46",
+           "CodeType": "Normal",
+           "StringValue": "wajir",
+           "MatchValues": [
+               "wajir"
+           ]
+       },
+	    {
+           "DisplayText": "west pokot",
+           "VisibleInCoda": true,
+           "NumericValue": 43,
+           "CodeID": "code-5b6f773b",
+           "CodeType": "Normal",
+           "StringValue": "west_pokot",
+           "MatchValues": [
+               "west pokot"
+           ]
+       },
+	    {
+           "DisplayText": "siaya",
+           "VisibleInCoda": true,
+           "NumericValue": 44,
+           "CodeID": "code-11ea6ab8",
+           "CodeType": "Normal",
+           "StringValue": "siaya",
+           "MatchValues": [
+               "siaya"
+           ]
+       },
+	    {
+           "DisplayText": "tana river",
+           "VisibleInCoda": true,
+           "NumericValue": 45,
+           "CodeID": "code-0ca3f68c",
+           "CodeType": "Normal",
+           "StringValue": "tana_river",
+           "MatchValues": [
+               "tana river"
+           ]
+       },
+      {
+           "DisplayText": "lamu",
+           "VisibleInCoda": true,
+           "NumericValue": 46,
+           "CodeID": "code-8e700c06",
+           "CodeType": "Normal",
+           "StringValue": "lamu",
+           "MatchValues": [
+               "lamu"
+           ]
+       },
+        {
+            "CodeID": "code-NA-f93d3eb7",
+            "NumericValue": -10,
+            "CodeType": "Control",
+            "StringValue": "NA",
+            "ControlCode": "NA",
+            "DisplayText": "NA (missing)",
+            "VisibleInCoda": false
+        },
+        {
+            "CodeType": "Control",
+            "StringValue": "NS",
+            "ControlCode": "NS",
+            "DisplayText": "NS (skip)",
+            "VisibleInCoda": false,
+            "NumericValue": -20,
+            "CodeID": "code-NS-2c11b7c9"
+        },
+        {
+            "CodeType": "Control",
+            "StringValue": "NC",
+            "ControlCode": "NC",
+            "DisplayText": "NC (not coded)",
+            "VisibleInCoda": true,
+            "NumericValue": -30,
+            "CodeID": "code-NC-42f1d983"
+        },
+        {
+            "ControlCode": "NR",
+            "DisplayText": "NR (not reviewed)",
+            "VisibleInCoda": false,
+            "NumericValue": -40,
+            "CodeID": "code-NR-5e3eee23",
+            "CodeType": "Control",
+            "StringValue": "NR"
+        },
+        {
+            "ControlCode": "NIC",
+            "DisplayText": "NIC (not internally consistent)",
+            "VisibleInCoda": false,
+            "NumericValue": -50,
+            "CodeID": "code-NIC-99631cb8",
+            "CodeType": "Control",
+            "StringValue": "NIC"
+        },
+        {
+            "StringValue": "Noise_Other_Project",
+            "ControlCode": "NOP",
+            "DisplayText": "Noise (Other Project)",
+            "VisibleInCoda": true,
+            "CodeID": "code-NOP-4eb70633",
+            "NumericValue": -60,
+            "CodeType": "Control"
+        },
+        {
+            "CodeType": "Control",
+            "StringValue": "STOP",
+            "ControlCode": "STOP",
+            "DisplayText": "STOP",
+            "VisibleInCoda": true,
+            "NumericValue": -90,
+            "CodeID": "code-STOP-08b832a8"
+        },
+        {
+            "NumericValue": -100,
+            "CodeID": "code-WS-adb25603b7af",
+            "CodeType": "Control",
+            "StringValue": "WS",
+            "ControlCode": "WS",
+            "DisplayText": "WS (wrong scheme)",
+            "VisibleInCoda": true
+        }
+    ]
+}

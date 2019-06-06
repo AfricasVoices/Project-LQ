@@ -1,0 +1,3314 @@
+{
+    "SchemeID": "Scheme-4c5b955d",
+    "Name": "Constituency",
+    "Version": "0.0.0.1",
+    "Codes": [
+        {
+            "DisplayText": "Mwea",
+            "VisibleInCoda": true,
+            "NumericValue": 0,
+            "CodeID": "code-bd610414",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mwea"
+            ],
+            "StringValue": "mwea"
+        },
+        {
+            "NumericValue": 1,
+            "CodeID": "code-4e32405d",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "gichugu"
+            ],
+            "StringValue": "gichugu",
+            "DisplayText": "Gichugu",
+            "VisibleInCoda": true
+        },
+        {
+            "CodeType": "Normal",
+            "MatchValues": [
+                "ndia"
+            ],
+            "StringValue": "ndia",
+            "DisplayText": "Ndia",
+            "VisibleInCoda": true,
+            "NumericValue": 2,
+            "CodeID": "code-963ec546"
+        },
+        {
+            "DisplayText": "Tetu",
+            "VisibleInCoda": true,
+            "CodeID": "code-c7ec0beb",
+            "NumericValue": 3,
+            "CodeType": "Normal",
+            "MatchValues": [
+                "tetu"
+            ],
+            "StringValue": "tetu"
+        },
+        {
+            "DisplayText": "Kieni",
+            "VisibleInCoda": true,
+            "NumericValue": 4,
+            "CodeID": "code-3d99a19d",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kieni"
+            ],
+            "StringValue": "kieni"
+        },
+        {
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mathira"
+            ],
+            "StringValue": "mathira",
+            "DisplayText": "Mathira",
+            "VisibleInCoda": true,
+            "CodeID": "code-a54d1b36",
+            "NumericValue": 5
+        },
+        {
+            "NumericValue": 6,
+            "CodeID": "code-5935a561",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "othaya"
+            ],
+            "StringValue": "othaya",
+            "DisplayText": "Othaya",
+            "VisibleInCoda": true
+        },
+        {
+            "NumericValue": 7,
+            "CodeID": "code-2ee84b27",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mukurweini"
+            ],
+            "StringValue": "mukurweini",
+            "DisplayText": "Mukurweini",
+            "VisibleInCoda": true
+        },
+        {
+            "NumericValue": 8,
+            "CodeID": "code-211b8756",
+            "MatchValues": [
+                "nyeri"
+            ],
+            "CodeType": "Normal",
+            "StringValue": "nyeri_town",
+            "DisplayText": "Nyeri Town",
+            "VisibleInCoda": true
+        },
+        {
+            "DisplayText": "Kandara",
+            "VisibleInCoda": true,
+            "NumericValue": 9,
+            "CodeID": "code-2cdc1368",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kandara"
+            ],
+            "StringValue": "kandara"
+        },
+        {
+            "DisplayText": "Kangema",
+            "VisibleInCoda": true,
+            "NumericValue": 10,
+            "CodeID": "code-287afcf3",
+            "MatchValues": [
+                "kangema"
+            ],
+            "CodeType": "Normal",
+            "StringValue": "kangema"
+        },
+        {
+            "DisplayText": "Kigumo",
+            "VisibleInCoda": true,
+            "NumericValue": 11,
+            "CodeID": "code-6dc55c8c",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kigumo"
+            ],
+            "StringValue": "kigumo"
+        },
+        {
+            "CodeID": "code-44ca0731",
+            "NumericValue": 12,
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kiharu"
+            ],
+            "StringValue": "kiharu",
+            "DisplayText": "Kiharu",
+            "VisibleInCoda": true
+        },
+        {
+            "NumericValue": 13,
+            "CodeID": "code-34da093f",
+            "MatchValues": [
+                "other"
+            ],
+            "CodeType": "Normal",
+            "StringValue": "other",
+            "DisplayText": "other",
+            "VisibleInCoda": true
+        },
+        {
+            "DisplayText": "Gatanga",
+            "VisibleInCoda": true,
+            "NumericValue": 14,
+            "CodeID": "code-85b8dad4",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "Gatanga"
+            ],
+            "StringValue": "Gatanga"
+        },
+        {
+            "DisplayText": "kirinyaga central",
+            "VisibleInCoda": true,
+            "NumericValue": 15,
+            "CodeID": "code-f87f26e6",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kirinyaga central"
+            ],
+            "StringValue": "kirinyaga_central"
+        },
+        {
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mathioya"
+            ],
+            "StringValue": "mathioya",
+            "DisplayText": "mathioya",
+            "VisibleInCoda": true,
+            "NumericValue": 16,
+            "CodeID": "code-a9f738ca"
+        },
+        {
+            "NumericValue": 17,
+            "CodeID": "code-dc085902",
+            "MatchValues": [
+                "maragwa"
+            ],
+            "CodeType": "Normal",
+            "StringValue": "maragwa",
+            "DisplayText": "maragwa",
+            "VisibleInCoda": true
+        },
+        {
+            "DisplayText": "nyeri county",
+            "VisibleInCoda": true,
+            "NumericValue": 18,
+            "CodeID": "code-9f7f9712",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "nyeri county"
+            ],
+            "StringValue": "nyeri_county"
+        },
+        {
+            "DisplayText": "kirinyaga county",
+            "VisibleInCoda": true,
+            "NumericValue": 19,
+            "CodeID": "code-6ff5616f",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kirinyaga_county"
+            ],
+            "StringValue": "kirinyaga_county"
+        },
+        {
+            "DisplayText": "muranga county",
+            "VisibleInCoda": true,
+            "NumericValue": 20,
+            "CodeID": "code-607bec6c",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "muranga county"
+            ],
+            "StringValue": "muranga_county"
+        },
+        {
+            "DisplayText": "Changamwe",
+            "VisibleInCoda": true,
+            "NumericValue": 21,
+            "CodeID": "code-2c6ae3a3",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "changamwe"
+            ],
+            "StringValue": "changamwe"
+        },
+        {
+            "DisplayText": "Jomvu",
+            "VisibleInCoda": true,
+            "NumericValue": 22,
+            "CodeID": "code-e4b3091f",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "jomvu"
+            ],
+            "StringValue": "jomvu"
+        },
+        {
+            "DisplayText": "Kisauni",
+            "VisibleInCoda": true,
+            "NumericValue": 23,
+            "CodeID": "code-394ee616",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kisauni"
+            ],
+            "StringValue": "kisauni"
+        },
+        {
+            "DisplayText": "Nyali",
+            "VisibleInCoda": true,
+            "NumericValue": 24,
+            "CodeID": "code-4f758675",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "nyali"
+            ],
+            "StringValue": "nyali"
+        },
+        {
+            "DisplayText": "likoni",
+            "VisibleInCoda": true,
+            "NumericValue": 25,
+            "CodeID": "code-f68e1c0a",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "likoni"
+            ],
+            "StringValue": "likoni"
+        },
+        {
+            "DisplayText": "Mvita",
+            "VisibleInCoda": true,
+            "NumericValue": 26,
+            "CodeID": "code-1aefb8d1",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mvita"
+            ],
+            "StringValue": "mvita"
+        },
+        {
+            "DisplayText": "Msambweni",
+            "VisibleInCoda": true,
+            "NumericValue": 27,
+            "CodeID": "code-d4004fa0",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "msambweni"
+            ],
+            "StringValue": "msambweni"
+        },
+        {
+            "DisplayText": "Lunga lunga",
+            "VisibleInCoda": true,
+            "NumericValue": 28,
+            "CodeID": "code-18a4dc33",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "lunga lunga"
+            ],
+            "StringValue": "lunga_lunga"
+        },
+        {
+            "DisplayText": "Matuga",
+            "VisibleInCoda": true,
+            "NumericValue": 29,
+            "CodeID": "code-27894f3d",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "matuga"
+            ],
+            "StringValue": "matuga"
+        },
+        {
+            "DisplayText": "Kinango",
+            "VisibleInCoda": true,
+            "NumericValue": 30,
+            "CodeID": "code-7bc43e11",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kinango"
+            ],
+            "StringValue": "kinango"
+        },
+        {
+            "DisplayText": "Kilifi north",
+            "VisibleInCoda": true,
+            "NumericValue": 31,
+            "CodeID": "code-3c48cce0",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kilifi north"
+            ],
+            "StringValue": "kilifi_north"
+        },
+        {
+            "DisplayText": "Kilifi south",
+            "VisibleInCoda": true,
+            "NumericValue": 32,
+            "CodeID": "code-2d00ef36",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kilifi south"
+            ],
+            "StringValue": "kilifi_south"
+        },
+        {
+            "DisplayText": "Kaloleni",
+            "VisibleInCoda": true,
+            "NumericValue": 33,
+            "CodeID": "code-6b2219a2",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kaloleni"
+            ],
+            "StringValue": "kaloleni"
+        },
+        {
+            "DisplayText": "Rabai",
+            "VisibleInCoda": true,
+            "NumericValue": 34,
+            "CodeID": "code-eced8470",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "rabai"
+            ],
+            "StringValue": "rabai"
+        },
+        {
+            "DisplayText": "Ganze",
+            "VisibleInCoda": true,
+            "NumericValue": 35,
+            "CodeID": "code-be75ecec",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "ganze"
+            ],
+            "StringValue": "ganze"
+        },
+        {
+            "DisplayText": "Malindi",
+            "VisibleInCoda": true,
+            "NumericValue": 36,
+            "CodeID": "code-74fbe177",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "malindi"
+            ],
+            "StringValue": "malindi"
+        },
+        {
+            "DisplayText": "Magarini",
+            "VisibleInCoda": true,
+            "NumericValue": 37,
+            "CodeID": "code-053fc1b7",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "magarini"
+            ],
+            "StringValue": "magarini"
+        },
+        {
+            "DisplayText": "Garsen",
+            "VisibleInCoda": true,
+            "NumericValue": 38,
+            "CodeID": "code-6483b422",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "garsen"
+            ],
+            "StringValue": "garsen"
+        },
+        {
+            "DisplayText": "Galole",
+            "VisibleInCoda": true,
+            "NumericValue": 39,
+            "CodeID": "code-7c1f94af",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "galole"
+            ],
+            "StringValue": "galole"
+        },
+        {
+            "DisplayText": "Bura",
+            "VisibleInCoda": true,
+            "NumericValue": 40,
+            "CodeID": "code-0e1f8588",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "bura"
+            ],
+            "StringValue": "bura"
+        },
+        {
+            "DisplayText": "Lamu east",
+            "VisibleInCoda": true,
+            "NumericValue": 41,
+            "CodeID": "code-dcf1b585",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "lamu east"
+            ],
+            "StringValue": "lamu_east"
+        },
+        {
+            "DisplayText": "Lamu west",
+            "VisibleInCoda": true,
+            "NumericValue": 42,
+            "CodeID": "code-174eda7b",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "lamu west"
+            ],
+            "StringValue": "lamu_west"
+        },
+        {
+            "DisplayText": "Taveta",
+            "VisibleInCoda": true,
+            "NumericValue": 43,
+            "CodeID": "code-7e43f4e2",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "taveta"
+            ],
+            "StringValue": "taveta "
+        },
+        {
+            "DisplayText": "Wundanyi",
+            "VisibleInCoda": true,
+            "NumericValue": 44,
+            "CodeID": "code-b72dbb72",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "wundanyi"
+            ],
+            "StringValue": "wundanyi"
+        },
+        {
+            "DisplayText": "Mwatate",
+            "VisibleInCoda": true,
+            "NumericValue": 45,
+            "CodeID": "code-8f6e91a2",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mwatate"
+            ],
+            "StringValue": "mwatate"
+        },
+        {
+            "DisplayText": "Voi",
+            "VisibleInCoda": true,
+            "NumericValue": 46,
+            "CodeID": "code-b2a2e8f2",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "voi"
+            ],
+            "StringValue": "voi"
+        },
+        {
+            "DisplayText": "Garissa township",
+            "VisibleInCoda": true,
+            "NumericValue": 47,
+            "CodeID": "code-23b4f587",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "garissa township"
+            ],
+            "StringValue": "garissa_township"
+        },
+        {
+            "DisplayText": "Balambala",
+            "VisibleInCoda": true,
+            "NumericValue": 48,
+            "CodeID": "code-dae428b9",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "balambala"
+            ],
+            "StringValue": "balambala"
+        },
+        {
+            "DisplayText": "Lagdera",
+            "VisibleInCoda": true,
+            "NumericValue": 49,
+            "CodeID": "code-72d1520b",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "lagdera"
+            ],
+            "StringValue": "lagdera"
+        },
+        {
+            "DisplayText": "Dadaab",
+            "VisibleInCoda": true,
+            "NumericValue": 50,
+            "CodeID": "code-24c85d6f",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "dadaab"
+            ],
+            "StringValue": "dadaab"
+        },
+        {
+            "DisplayText": "Fafi",
+            "VisibleInCoda": true,
+            "NumericValue": 51,
+            "CodeID": "code-69b38d93",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "fafi"
+            ],
+            "StringValue": "fafi"
+        },
+        {
+            "DisplayText": "Ijara",
+            "VisibleInCoda": true,
+            "NumericValue": 52,
+            "CodeID": "code-4c6d2954",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "ijara"
+            ],
+            "StringValue": "ijara"
+        },
+        {
+            "DisplayText": "Wajir north",
+            "VisibleInCoda": true,
+            "NumericValue": 53,
+            "CodeID": "code-3ddc64d9",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "wajir north"
+            ],
+            "StringValue": "wajir_north"
+        },
+        {
+            "DisplayText": "Wajir east",
+            "VisibleInCoda": true,
+            "NumericValue": 54,
+            "CodeID": "code-27fdb468",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "wajir east"
+            ],
+            "StringValue": "wajir_east"
+        },
+        {
+            "DisplayText": "Wajir south",
+            "VisibleInCoda": true,
+            "NumericValue": 55,
+            "CodeID": "code-3ad5ca01",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "wajir south"
+            ],
+            "StringValue": "wajir-south"
+        },
+        {
+            "DisplayText": "Wajir west",
+            "VisibleInCoda": true,
+            "NumericValue": 56,
+            "CodeID": "code-e4711bf9",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "wajir west"
+            ],
+            "StringValue": "wajir_west"
+        },
+        {
+            "DisplayText": "Tarbaj",
+            "VisibleInCoda": true,
+            "NumericValue": 57,
+            "CodeID": "code-d9d729bc",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "tarbaj"
+            ],
+            "StringValue": "tarbaj"
+        },
+        {
+            "DisplayText": "Eldas",
+            "VisibleInCoda": true,
+            "NumericValue": 58,
+            "CodeID": "code-3e8f00af",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "eldas"
+            ],
+            "StringValue": "eldas"
+        },
+        {
+            "DisplayText": "Mandera west",
+            "VisibleInCoda": true,
+            "NumericValue": 59,
+            "CodeID": "code-b91e4457",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mandera west"
+            ],
+            "StringValue": "mandera_west"
+        },
+        {
+            "DisplayText": "Banisa",
+            "VisibleInCoda": true,
+            "NumericValue": 60,
+            "CodeID": "code-e577f67b",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "banisa"
+            ],
+            "StringValue": "banisa"
+        },
+        {
+            "DisplayText": "Mandera north",
+            "VisibleInCoda": true,
+            "NumericValue": 61,
+            "CodeID": "code-45637372",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mandera north"
+            ],
+            "StringValue": "mandera_north"
+        },
+        {
+            "DisplayText": "Mandera south",
+            "VisibleInCoda": true,
+            "NumericValue": 62,
+            "CodeID": "code-975bb5af",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mandera south"
+            ],
+            "StringValue": "mandera_south"
+        },
+        {
+            "DisplayText": "Mandera east",
+            "VisibleInCoda": true,
+            "NumericValue": 63,
+            "CodeID": "code-c28fe27e",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mandera east"
+            ],
+            "StringValue": "mandera_east"
+        },
+        {
+            "DisplayText": "Lafey",
+            "VisibleInCoda": true,
+            "NumericValue": 64,
+            "CodeID": "code-3a3f84ff",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "lafey"
+            ],
+            "StringValue": "lafey"
+        },
+        {
+            "DisplayText": "Moyale",
+            "VisibleInCoda": true,
+            "NumericValue": 65,
+            "CodeID": "code-648670c1",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "moyale"
+            ],
+            "StringValue": "moyale"
+        },
+        {
+            "DisplayText": "North horr",
+            "VisibleInCoda": true,
+            "NumericValue": 66,
+            "CodeID": "code-147d212e",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "north horr"
+            ],
+            "StringValue": "north_horr"
+        },
+        {
+            "DisplayText": "Saku",
+            "VisibleInCoda": true,
+            "NumericValue": 67,
+            "CodeID": "code-2a3f8aa0",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "saku"
+            ],
+            "StringValue": "saku"
+        },
+        {
+            "DisplayText": "Laisamis",
+            "VisibleInCoda": true,
+            "NumericValue": 68,
+            "CodeID": "code-59573e50",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "laisamis"
+            ],
+            "StringValue": "laisamis"
+        },
+        {
+            "DisplayText": "Isiolo north",
+            "VisibleInCoda": true,
+            "NumericValue": 69,
+            "CodeID": "code-48d7d140",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "isiolo north"
+            ],
+            "StringValue": "isiolo_north"
+        },
+        {
+            "DisplayText": "Isiolo south",
+            "VisibleInCoda": true,
+            "NumericValue": 70,
+            "CodeID": "code-76ee1407",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "isiolo south"
+            ],
+            "StringValue": "isiolo_south"
+        },
+        {
+            "DisplayText": "Igembe south",
+            "VisibleInCoda": true,
+            "NumericValue": 71,
+            "CodeID": "code-9fe810cc",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "igembe south"
+            ],
+            "StringValue": "igembe_south"
+        },
+        {
+            "DisplayText": "Igembe_central",
+            "VisibleInCoda": true,
+            "NumericValue": 72,
+            "CodeID": "code-3e97a5e5",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "igembe central"
+            ],
+            "StringValue": "igembe_central"
+        },
+        {
+            "DisplayText": "Igembe north",
+            "VisibleInCoda": true,
+            "NumericValue": 73,
+            "CodeID": "code-a80fa660",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "igembe north"
+            ],
+            "StringValue": "igembe_north"
+        },
+        {
+            "DisplayText": "Tigania west",
+            "VisibleInCoda": true,
+            "NumericValue": 74,
+            "CodeID": "code-eee62d05",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "tigania west"
+            ],
+            "StringValue": "tigania_west"
+        },
+        {
+            "DisplayText": "Tigania east",
+            "VisibleInCoda": true,
+            "NumericValue": 75,
+            "CodeID": "code-5a153a39",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "tigania east"
+            ],
+            "StringValue": "tigania_east"
+        },
+        {
+            "DisplayText": "North imenti",
+            "VisibleInCoda": true,
+            "NumericValue": 76,
+            "CodeID": "code-d0c9b724",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "north imenti"
+            ],
+            "StringValue": "north_imenti"
+        },
+        {
+            "DisplayText": "Buuri",
+            "VisibleInCoda": true,
+            "NumericValue": 77,
+            "CodeID": "code-1fc6f566",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "buuri"
+            ],
+            "StringValue": "buuri"
+        },
+        {
+            "DisplayText": "Central imenti",
+            "VisibleInCoda": true,
+            "NumericValue": 78,
+            "CodeID": "code-8d9bf52e",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "central imenti"
+            ],
+            "StringValue": "central_imenti"
+        },
+        {
+            "DisplayText": "South imenti",
+            "VisibleInCoda": true,
+            "NumericValue": 79,
+            "CodeID": "code-94b77a31",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "south imenti"
+            ],
+            "StringValue": "south_imenti"
+        },
+        {
+            "DisplayText": "Maara",
+            "VisibleInCoda": true,
+            "NumericValue": 80,
+            "CodeID": "code-3ca8d0e4",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "maara"
+            ],
+            "StringValue": "maara"
+        },
+        {
+            "DisplayText": "Igambang`ombe",
+            "VisibleInCoda": true,
+            "NumericValue": 81,
+            "CodeID": "code-c7b961c9",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "igambang`ombe"
+            ],
+            "StringValue": "igambang_ombe"
+        },
+        {
+            "DisplayText": "Tharaka",
+            "VisibleInCoda": true,
+            "NumericValue": 82,
+            "CodeID": "code-286e7fb9",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "tharaka"
+            ],
+            "StringValue": "tharaka"
+        },
+        {
+            "DisplayText": "Manyatta",
+            "VisibleInCoda": true,
+            "NumericValue": 83,
+            "CodeID": "code-1dd6c06f",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "manyatta"
+            ],
+            "StringValue": "manyatta"
+        },
+        {
+            "DisplayText": "Runyenjes",
+            "VisibleInCoda": true,
+            "NumericValue": 84,
+            "CodeID": "code-02604e81",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "runyenjes"
+            ],
+            "StringValue": "runyenjes"
+        },
+        {
+            "DisplayText": "Mbeere south",
+            "VisibleInCoda": true,
+            "NumericValue": 85,
+            "CodeID": "code-2aa560a7",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mbeere south"
+            ],
+            "StringValue": "mbeere_south"
+        },
+        {
+            "DisplayText": "Mbeere north",
+            "VisibleInCoda": true,
+            "NumericValue": 86,
+            "CodeID": "code-9d54a61d",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mbeere north"
+            ],
+            "StringValue": "mbeere_north"
+        },
+        {
+            "DisplayText": "Mwingi north",
+            "VisibleInCoda": true,
+            "NumericValue": 87,
+            "CodeID": "code-94916d69",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mwingi north"
+            ],
+            "StringValue": "mwingi_north"
+        },
+        {
+            "DisplayText": "Mwingi west",
+            "VisibleInCoda": true,
+            "NumericValue": 88,
+            "CodeID": "code-63cfa6c1",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mwingi west"
+            ],
+            "StringValue": "mwingi_west"
+        },
+        {
+            "DisplayText": "Mwingi central",
+            "VisibleInCoda": true,
+            "NumericValue": 89,
+            "CodeID": "code-f441b769",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mwingi central"
+            ],
+            "StringValue": "mwingi_central"
+        },
+        {
+            "DisplayText": "Kitui west",
+            "VisibleInCoda": true,
+            "NumericValue": 90,
+            "CodeID": "code-49177ef6",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kitui west"
+            ],
+            "StringValue": "kitui_west"
+        },
+        {
+            "DisplayText": "Kitui rural",
+            "VisibleInCoda": true,
+            "NumericValue": 91,
+            "CodeID": "code-c6bce2b7",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kitui rural"
+            ],
+            "StringValue": "kitui_rural"
+        },
+        {
+            "DisplayText": "Kitui central",
+            "VisibleInCoda": true,
+            "NumericValue": 92,
+            "CodeID": "code-26e94d61",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kitui central"
+            ],
+            "StringValue": "kitui_central"
+        },
+        {
+            "DisplayText": "Kitui east",
+            "VisibleInCoda": true,
+            "NumericValue": 93,
+            "CodeID": "code-3b544621",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kitui east"
+            ],
+            "StringValue": "kitui_east"
+        },
+        {
+            "DisplayText": "Kitui south",
+            "VisibleInCoda": true,
+            "NumericValue": 94,
+            "CodeID": "code-bffeef07",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kitui south"
+            ],
+            "StringValue": "kitui_south"
+        },
+        {
+            "DisplayText": "Masinga",
+            "VisibleInCoda": true,
+            "NumericValue": 95,
+            "CodeID": "code-cfaf3838",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "masinga"
+            ],
+            "StringValue": "masinga"
+        },
+        {
+            "DisplayText": "Yatta",
+            "VisibleInCoda": true,
+            "NumericValue": 96,
+            "CodeID": "code-f6ad7f2c",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "yatta"
+            ],
+            "StringValue": "yatta"
+        },
+        {
+            "DisplayText": "Kangundo",
+            "VisibleInCoda": true,
+            "NumericValue": 97,
+            "CodeID": "code-11649af0",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kangundo"
+            ],
+            "StringValue": "kangundo"
+        },
+        {
+            "DisplayText": "Matungulu",
+            "VisibleInCoda": true,
+            "NumericValue": 98,
+            "CodeID": "code-aa1afeba",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "matungulu"
+            ],
+            "StringValue": "matungulu"
+        },
+        {
+            "DisplayText": "Kathiani",
+            "VisibleInCoda": true,
+            "NumericValue": 99,
+            "CodeID": "code-da0b5e11",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kathiani"
+            ],
+            "StringValue": "kathiani"
+        },
+        {
+            "DisplayText": "Mavoko",
+            "VisibleInCoda": true,
+            "NumericValue": 100,
+            "CodeID": "code-5bff2b5f",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mavoko"
+            ],
+            "StringValue": "mavoko"
+        },
+        {
+            "DisplayText": "Machakos town",
+            "VisibleInCoda": true,
+            "NumericValue": 101,
+            "CodeID": "code-b5831b88",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "machakos town"
+            ],
+            "StringValue": "machakos_town"
+        },
+        {
+            "DisplayText": "Mwala",
+            "VisibleInCoda": true,
+            "NumericValue": 102,
+            "CodeID": "code-460e0ac9",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mwala"
+            ],
+            "StringValue": "mwala"
+        },
+        {
+            "DisplayText": "Mbooni",
+            "VisibleInCoda": true,
+            "NumericValue": 103,
+            "CodeID": "code-b8c3ad10",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mbooni"
+            ],
+            "StringValue": "mbooni"
+        },
+        {
+            "DisplayText": "kilome",
+            "VisibleInCoda": true,
+            "NumericValue": 104,
+            "CodeID": "code-d03b039cs",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kilome"
+            ],
+            "StringValue": "kilome"
+        },
+        {
+            "DisplayText": "kaiti",
+            "VisibleInCoda": true,
+            "NumericValue": 105,
+            "CodeID": "code-bd25a773",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kaiti"
+            ],
+            "StringValue": "kaiti"
+        },
+        {
+            "DisplayText": "Makueni",
+            "VisibleInCoda": true,
+            "NumericValue": 106,
+            "CodeID": "code-beb3995e",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "makueni"
+            ],
+            "StringValue": "makueni"
+        },
+        {
+            "DisplayText": "Kibwezi west",
+            "VisibleInCoda": true,
+            "NumericValue": 107,
+            "CodeID": "code-4b99eab7",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kibwezi west"
+            ],
+            "StringValue": "kibwezi_west"
+        },
+        {
+            "DisplayText": "Kibwezi east",
+            "VisibleInCoda": true,
+            "NumericValue": 108,
+            "CodeID": "code-3643a3d7",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kibwezi east"
+            ],
+            "StringValue": "kibwezi_east"
+        },
+        {
+            "DisplayText": "Kinangop",
+            "VisibleInCoda": true,
+            "NumericValue": 109,
+            "CodeID": "code-2f62e27d",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kinangop"
+            ],
+            "StringValue": "kinangop"
+        },
+        {
+            "DisplayText": "Kipipiri",
+            "VisibleInCoda": true,
+            "NumericValue": 110,
+            "CodeID": "code-0aed6ac4",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kipipiri"
+            ],
+            "StringValue": "kipipiri"
+        },
+        {
+            "DisplayText": "Ol_kalou",
+            "VisibleInCoda": true,
+            "NumericValue": 111,
+            "CodeID": "code-fd9d3681",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "ol kalou"
+            ],
+            "StringValue": "ol_kalou"
+        },
+        {
+            "DisplayText": "Ol_jorok",
+            "VisibleInCoda": true,
+            "NumericValue": 112,
+            "CodeID": "code-4e89dae6",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "ol jorok"
+            ],
+            "StringValue": "ol_jorok"
+        },
+        {
+            "DisplayText": "Ndaragwa",
+            "VisibleInCoda": true,
+            "NumericValue": 113,
+            "CodeID": "code-d03189e0",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "ndaragwa"
+            ],
+            "StringValue": "ndaragwa"
+        },
+        {
+            "DisplayText": "Gatundu south",
+            "VisibleInCoda": true,
+            "NumericValue": 114,
+            "CodeID": "code-598d589e",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "gatundu south"
+            ],
+            "StringValue": "gatundu_south"
+        },
+        {
+            "DisplayText": "Gatundu north",
+            "VisibleInCoda": true,
+            "NumericValue": 115,
+            "CodeID": "code-42d7a240",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "gatundu north"
+            ],
+            "StringValue": "gatundu_north"
+        },
+        {
+            "DisplayText": "Juja",
+            "VisibleInCoda": true,
+            "NumericValue": 116,
+            "CodeID": "code-82d3521d",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "juja"
+            ],
+            "StringValue": "juja"
+        },
+        {
+            "DisplayText": "Thika town",
+            "VisibleInCoda": true,
+            "NumericValue": 117,
+            "CodeID": "code-e75f0c3b",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "thika town"
+            ],
+            "StringValue": "thika_town"
+        },
+        {
+            "DisplayText": "Ruiru",
+            "VisibleInCoda": true,
+            "NumericValue": 118,
+            "CodeID": "code-ad9d5763",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "ruiru"
+            ],
+            "StringValue": "ruiru"
+        },
+        {
+            "DisplayText": "Githunguri",
+            "VisibleInCoda": true,
+            "NumericValue": 119,
+            "CodeID": "code-e11e669f",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "githunguri"
+            ],
+            "StringValue": "githunguri"
+        },
+        {
+            "DisplayText": "Kiambu",
+            "VisibleInCoda": true,
+            "NumericValue": 120,
+            "CodeID": "code-8e788a16",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kiambu"
+            ],
+            "StringValue": "kiambu"
+        },
+        {
+            "DisplayText": "Kiambaa",
+            "VisibleInCoda": true,
+            "NumericValue": 121,
+            "CodeID": "code-31d4e00d",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kiambaa"
+            ],
+            "StringValue": "kaimbaa"
+        },
+        {
+            "DisplayText": "Kabete",
+            "VisibleInCoda": true,
+            "NumericValue": 122,
+            "CodeID": "code-fbeb0563",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kabete"
+            ],
+            "StringValue": "kabete"
+        },
+        {
+            "DisplayText": "Kikuyu",
+            "VisibleInCoda": true,
+            "NumericValue": 123,
+            "CodeID": "code-900d1d78",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kikuyu"
+            ],
+            "StringValue": "kikuyu"
+        },
+        {
+            "DisplayText": "Limuru",
+            "VisibleInCoda": true,
+            "NumericValue": 124,
+            "CodeID": "code-5d0b4f1e",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "limuru"
+            ],
+            "StringValue": "limuru"
+        },
+        {
+            "DisplayText": "Lari",
+            "VisibleInCoda": true,
+            "NumericValue": 125,
+            "CodeID": "code-3a3f9f2a",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "lari"
+            ],
+            "StringValue": "lari"
+        },
+        {
+            "DisplayText": "Turkana north",
+            "VisibleInCoda": true,
+            "NumericValue": 126,
+            "CodeID": "code-dd9c1202",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "turkana north"
+            ],
+            "StringValue": "turkana_north"
+        },
+        {
+            "DisplayText": "Turkana west",
+            "VisibleInCoda": true,
+            "NumericValue": 127,
+            "CodeID": "code-36f88704",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "turkana west"
+            ],
+            "StringValue": "turkana_west"
+        },
+        {
+            "DisplayText": "Turkana central",
+            "VisibleInCoda": true,
+            "NumericValue": 128,
+            "CodeID": "code-d5893c80",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "turkana central"
+            ],
+            "StringValue": "turkana_central"
+        },
+        {
+            "DisplayText": "Loima",
+            "VisibleInCoda": true,
+            "NumericValue": 129,
+            "CodeID": "code-e3d7ef7e",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "loima"
+            ],
+            "StringValue": "loima"
+        },
+        {
+            "DisplayText": "Turkana south",
+            "VisibleInCoda": true,
+            "NumericValue": 130,
+            "CodeID": "code-ac037e32",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "turkana south"
+            ],
+            "StringValue": "turkana_south"
+        },
+        {
+            "DisplayText": "Turkana east",
+            "VisibleInCoda": true,
+            "NumericValue": 131,
+            "CodeID": "code-1c15b760",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "turkana east"
+            ],
+            "StringValue": "turkana_east"
+        },
+        {
+            "DisplayText": "Kapenguria",
+            "VisibleInCoda": true,
+            "NumericValue": 132,
+            "CodeID": "code-9e4f5d23",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kapenguria"
+            ],
+            "StringValue": "kapenguria"
+        },
+        {
+            "DisplayText": "Sigor",
+            "VisibleInCoda": true,
+            "NumericValue": 133,
+            "CodeID": "code-9b381706",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "sigor"
+            ],
+            "StringValue": "sigor"
+        },
+        {
+            "DisplayText": "Kacheliba",
+            "VisibleInCoda": true,
+            "NumericValue": 134,
+            "CodeID": "code-bc8c594b",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kacheliba"
+            ],
+            "StringValue": "kachelib"
+        },
+        {
+            "DisplayText": "Pokot south",
+            "VisibleInCoda": true,
+            "NumericValue": 135,
+            "CodeID": "code-a2e13401",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "pokot south"
+            ],
+            "StringValue": "pokot_south"
+        },
+        {
+            "DisplayText": "Samburu west",
+            "VisibleInCoda": true,
+            "NumericValue": 136,
+            "CodeID": "code-588f01cb",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "samburu west"
+            ],
+            "StringValue": "samburu_west"
+        },
+        {
+            "DisplayText": "Samburu north",
+            "VisibleInCoda": true,
+            "NumericValue": 137,
+            "CodeID": "code-6bd11945",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "samburu north"
+            ],
+            "StringValue": "samburu_north"
+        },
+        {
+            "DisplayText": "Samburu east",
+            "VisibleInCoda": true,
+            "NumericValue": 138,
+            "CodeID": "code-7a5930b9",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "samburu east"
+            ],
+            "StringValue": "samburu_east"
+        },
+        {
+            "DisplayText": "Kwanza",
+            "VisibleInCoda": true,
+            "NumericValue": 139,
+            "CodeID": "code-c9ce99df",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kwanza"
+            ],
+            "StringValue": "kwanza"
+        },
+        {
+            "DisplayText": "Endebess",
+            "VisibleInCoda": true,
+            "NumericValue": 140,
+            "CodeID": "code-0f1538e4",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "endebess"
+            ],
+            "StringValue": "endebess"
+        },
+        {
+            "DisplayText": "Saboti",
+            "VisibleInCoda": true,
+            "NumericValue": 141,
+            "CodeID": "code-6e8ad492",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "saboti"
+            ],
+            "StringValue": "saboti"
+        },
+        {
+            "DisplayText": "Kiminini",
+            "VisibleInCoda": true,
+            "NumericValue": 142,
+            "CodeID": "code-6d71f392",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kiminini"
+            ],
+            "StringValue": "kiminini"
+        },
+        {
+            "DisplayText": "Cherangany",
+            "VisibleInCoda": true,
+            "NumericValue": 143,
+            "CodeID": "code-2aabb1fa",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "cherangany"
+            ],
+            "StringValue": "cherangany"
+        },
+        {
+            "DisplayText": "Soy",
+            "VisibleInCoda": true,
+            "NumericValue": 146,
+            "CodeID": "code-9400248f",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "soy"
+            ],
+            "StringValue": "soy"
+        },
+        {
+            "DisplayText": "Turbo",
+            "VisibleInCoda": true,
+            "NumericValue": 147,
+            "CodeID": "code-0d7ba2c2",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "turbo"
+            ],
+            "StringValue": "turbo"
+        },
+        {
+            "DisplayText": "Ainamoi",
+            "VisibleInCoda": true,
+            "NumericValue": 148,
+            "CodeID": "code-b65ddac5",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "ainamoi"
+            ],
+            "StringValue": "ainamoi"
+        },
+        {
+            "DisplayText": "Kapseret",
+            "VisibleInCoda": true,
+            "NumericValue": 149,
+            "CodeID": "code-f13014a9",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kapseret"
+            ],
+            "StringValue": "kapseret"
+        },
+        {
+            "DisplayText": "Kesses",
+            "VisibleInCoda": true,
+            "NumericValue": 150,
+            "CodeID": "code-4c4b29e9",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kesses"
+            ],
+            "StringValue": "kesses"
+        },
+        {
+            "DisplayText": "Moiben",
+            "VisibleInCoda": true,
+            "NumericValue": 151,
+            "CodeID": "code-1f283c50",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "moiben"
+            ],
+            "StringValue": "moiben"
+        },
+        {
+            "DisplayText": "Marakwet east",
+            "VisibleInCoda": true,
+            "NumericValue": 152,
+            "CodeID": "code-8b713227",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "marakwet east"
+            ],
+            "StringValue": "marakwet_east"
+        },
+        {
+            "DisplayText": "Marakwet west",
+            "VisibleInCoda": true,
+            "NumericValue": 153,
+            "CodeID": "code-2080249d",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "marakwet west"
+            ],
+            "StringValue": "marakwet_west"
+        },
+        {
+            "DisplayText": "Keiyo north",
+            "VisibleInCoda": true,
+            "NumericValue": 154,
+            "CodeID": "code-441fc6e5",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "keiyo north"
+            ],
+            "StringValue": "keiyo_north"
+        },
+        {
+            "DisplayText": "Keiyo south",
+            "VisibleInCoda": true,
+            "NumericValue": 155,
+            "CodeID": "code-a608e0a3",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "keiyo south"
+            ],
+            "StringValue": "keiyo_south"
+        },
+        {
+            "DisplayText": "Tinderet",
+            "VisibleInCoda": true,
+            "NumericValue": 156,
+            "CodeID": "code-7808547a",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "tinderet"
+            ],
+            "StringValue": "tinderet"
+        },
+        {
+            "DisplayText": "Aldai",
+            "VisibleInCoda": true,
+            "NumericValue": 157,
+            "CodeID": "code-c7cd5c53",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "aldai"
+            ],
+            "StringValue": "aldai"
+        },
+        {
+            "DisplayText": "Nandi hills",
+            "VisibleInCoda": true,
+            "NumericValue": 158,
+            "CodeID": "code-05f59b0e",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "nandi hills"
+            ],
+            "StringValue": "nandi_hills"
+        },
+        {
+            "DisplayText": "chesumei",
+            "VisibleInCoda": true,
+            "NumericValue": 159,
+            "CodeID": "code-5076bdd4",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "chesumei"
+            ],
+            "StringValue": "chesumei"
+        },
+        {
+            "DisplayText": "Emgwen",
+            "VisibleInCoda": true,
+            "NumericValue": 160,
+            "CodeID": "code-332c1d09",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "emgwen"
+            ],
+            "StringValue": "emgwen"
+        },
+        {
+            "DisplayText": "mosop",
+            "VisibleInCoda": true,
+            "NumericValue": 161,
+            "CodeID": "code-db797b0f",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mosop"
+            ],
+            "StringValue": "mosop"
+        },
+        {
+            "DisplayText": "Tiaty",
+            "VisibleInCoda": true,
+            "NumericValue": 162,
+            "CodeID": "code-d7742373",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "tiaty"
+            ],
+            "StringValue": "tiaty"
+        },
+        {
+            "DisplayText": "Baringo north",
+            "VisibleInCoda": true,
+            "NumericValue": 163,
+            "CodeID": "code-39bcb625",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "baringo north"
+            ],
+            "StringValue": "baringo_north"
+        },
+        {
+            "DisplayText": "Baringo central",
+            "VisibleInCoda": true,
+            "NumericValue": 164,
+            "CodeID": "code-5de15741",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "baringo central"
+            ],
+            "StringValue": "baringo_central"
+        },
+        {
+            "DisplayText": "Baringo south",
+            "VisibleInCoda": true,
+            "NumericValue": 165,
+            "CodeID": "code-5619fa09",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "baringo south"
+            ],
+            "StringValue": "baringo_south"
+        },
+        {
+            "DisplayText": "Mogotio",
+            "VisibleInCoda": true,
+            "NumericValue": 166,
+            "CodeID": "code-77f06d3f",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mogotio"
+            ],
+            "StringValue": "mogotio"
+        },
+        {
+            "DisplayText": "Eldama ravine",
+            "VisibleInCoda": true,
+            "NumericValue": 167,
+            "CodeID": "code-95586ee2",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "eldama ravine"
+            ],
+            "StringValue": "eldama_ravine"
+        },
+        {
+            "DisplayText": "Laikipia west",
+            "VisibleInCoda": true,
+            "NumericValue": 168,
+            "CodeID": "code-4524ee60",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "laikipia west"
+            ],
+            "StringValue": "laikipia_west"
+        },
+        {
+            "DisplayText": "Laikipia east",
+            "VisibleInCoda": true,
+            "NumericValue": 169,
+            "CodeID": "code-7a0e15bf",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "laikipia east"
+            ],
+            "StringValue": "laikipia_east"
+        },
+        {
+            "DisplayText": "Laikipia north",
+            "VisibleInCoda": true,
+            "NumericValue": 170,
+            "CodeID": "code-568baa29",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "laikipia north"
+            ],
+            "StringValue": "laikipia_north"
+        },
+        {
+            "DisplayText": "Molo",
+            "VisibleInCoda": true,
+            "NumericValue": 171,
+            "CodeID": "code-04e85008",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "molo"
+            ],
+            "StringValue": "molo"
+        },
+        {
+            "DisplayText": "Njoro",
+            "VisibleInCoda": true,
+            "NumericValue": 172,
+            "CodeID": "code-db81185b",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "njoro"
+            ],
+            "StringValue": "njoro"
+        },
+        {
+            "DisplayText": "Naivasha",
+            "VisibleInCoda": true,
+            "NumericValue": 173,
+            "CodeID": "code-b8e3753f",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "naivasha"
+            ],
+            "StringValue": "naivasha"
+        },
+        {
+            "DisplayText": "Gilgil",
+            "VisibleInCoda": true,
+            "NumericValue": 174,
+            "CodeID": "code-a6f085f5",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "gilgil"
+            ],
+            "StringValue": "gilgil"
+        },
+        {
+            "DisplayText": "Kuresoi south",
+            "VisibleInCoda": true,
+            "NumericValue": 175,
+            "CodeID": "code-db5b5032",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kuresoi south"
+            ],
+            "StringValue": "kuresoi_south"
+        },
+        {
+            "DisplayText": "Kuresoi north",
+            "VisibleInCoda": true,
+            "NumericValue": 176,
+            "CodeID": "code-afe2c992",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kuresoi north"
+            ],
+            "StringValue": "kuresoi_north"
+        },
+        {
+            "DisplayText": "Subukia",
+            "VisibleInCoda": true,
+            "NumericValue": 177,
+            "CodeID": "code-8def8cfb",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "subukia"
+            ],
+            "StringValue": "subukia"
+        },
+        {
+            "DisplayText": "Rongai",
+            "VisibleInCoda": true,
+            "NumericValue": 178,
+            "CodeID": "code-d811bdb9",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "rongai"
+            ],
+            "StringValue": "rongai"
+        },
+        {
+            "DisplayText": "Bahati",
+            "VisibleInCoda": true,
+            "NumericValue": 179,
+            "CodeID": "code-7f686207",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "bahati"
+            ],
+            "StringValue": "bahati"
+        },
+        {
+            "DisplayText": "Nakuru town west",
+            "VisibleInCoda": true,
+            "NumericValue": 180,
+            "CodeID": "code-2e48eef2",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "nakuru town west"
+            ],
+            "StringValue": "nakuru_town_west"
+        },
+        {
+            "DisplayText": "Nakuru town east",
+            "VisibleInCoda": true,
+            "NumericValue": 181,
+            "CodeID": "code-28570ab3",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "nakuru town east"
+            ],
+            "StringValue": "nakuru_town_east"
+        },
+        {
+            "DisplayText": "Kilgoris",
+            "VisibleInCoda": true,
+            "NumericValue": 182,
+            "CodeID": "code-a919b5a4",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kilgoris"
+            ],
+            "StringValue": "kilgoris"
+        },
+        {
+            "DisplayText": "Emurua dikirr",
+            "VisibleInCoda": true,
+            "NumericValue": 183,
+            "CodeID": "code-6b9cbb5a",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "emurua dikirr"
+            ],
+            "StringValue": "emurua_dikirr"
+        },
+        {
+            "DisplayText": "Narok north",
+            "VisibleInCoda": true,
+            "NumericValue": 184,
+            "CodeID": "code-a9940050",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "narok north"
+            ],
+            "StringValue": "narok_north"
+        },
+        {
+            "DisplayText": "Narok east",
+            "VisibleInCoda": true,
+            "NumericValue": 185,
+            "CodeID": "code-81b9f08e",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "narok east"
+            ],
+            "StringValue": "narok_east"
+        },
+        {
+            "DisplayText": "Narok south",
+            "VisibleInCoda": true,
+            "NumericValue": 186,
+            "CodeID": "code-823791f9",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "narok south"
+            ],
+            "StringValue": "narok_south"
+        },
+        {
+            "DisplayText": "Narok west",
+            "VisibleInCoda": true,
+            "NumericValue": 187,
+            "CodeID": "code-817ca969",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "narok west"
+            ],
+            "StringValue": "narok_west"
+        },
+        {
+            "DisplayText": "Kajiado north",
+            "VisibleInCoda": true,
+            "NumericValue": 188,
+            "CodeID": "code-4ce957aa",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kajiado north"
+            ],
+            "StringValue": "kajiado_north"
+        },
+        {
+            "DisplayText": "Kajiado central",
+            "VisibleInCoda": true,
+            "NumericValue": 189,
+            "CodeID": "code-d771657a",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kajiado central"
+            ],
+            "StringValue": "kajiado_central"
+        },
+        {
+            "DisplayText": "Kajiado west",
+            "VisibleInCoda": true,
+            "NumericValue": 190,
+            "CodeID": "code-0f27ad5f",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kajiado west"
+            ],
+            "StringValue": "kajiado_west"
+        },
+        {
+            "DisplayText": "Kajiado south",
+            "VisibleInCoda": true,
+            "NumericValue": 191,
+            "CodeID": "code-ae933ace",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kajiado south"
+            ],
+            "StringValue": "kajiado_south"
+        },
+        {
+            "DisplayText": "Kajiado east",
+            "VisibleInCoda": true,
+            "NumericValue": 192,
+            "CodeID": "code-3dd8d208",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kajiado east"
+            ],
+            "StringValue": "kajiado_east"
+        },
+        {
+            "DisplayText": "Kipkelion east",
+            "VisibleInCoda": true,
+            "NumericValue": 193,
+            "CodeID": "code-841ca505",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kipkelion east"
+            ],
+            "StringValue": "kipkelion_east"
+        },
+        {
+            "DisplayText": "Kipkelion west",
+            "VisibleInCoda": true,
+            "NumericValue": 194,
+            "CodeID": "code-95148e2d",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kipkelion west"
+            ],
+            "StringValue": "kipkelion_west"
+        },
+        {
+            "DisplayText": "Bureti",
+            "VisibleInCoda": true,
+            "NumericValue": 195,
+            "CodeID": "code-aac6af97",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "bureti"
+            ],
+            "StringValue": "bureti"
+        },
+        {
+            "DisplayText": "Belgut",
+            "VisibleInCoda": true,
+            "NumericValue": 196,
+            "CodeID": "code-afd75890",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "belgut"
+            ],
+            "StringValue": "belgut"
+        },
+        {
+            "DisplayText": "Sigowet_sion",
+            "VisibleInCoda": true,
+            "NumericValue": 197,
+            "CodeID": "code-d2710982",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "sigowet_sion"
+            ],
+            "StringValue": "sigowet_sion"
+        },
+        {
+            "DisplayText": "Chepalungu",
+            "VisibleInCoda": true,
+            "NumericValue": 198,
+            "CodeID": "code-d73c5b34",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "chepalungu"
+            ],
+            "StringValue": "chepalungu"
+        },
+        {
+            "DisplayText": "Bomet east",
+            "VisibleInCoda": true,
+            "NumericValue": 199,
+            "CodeID": "code-d598886e",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "bomet east"
+            ],
+            "StringValue": "bomet_east"
+        },
+        {
+            "DisplayText": "Bomet central",
+            "VisibleInCoda": true,
+            "NumericValue": 200,
+            "CodeID": "code-2ef4c4a8",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "bomet central"
+            ],
+            "StringValue": "bomet_central"
+        },
+        {
+            "DisplayText": "Konoin",
+            "VisibleInCoda": true,
+            "NumericValue": 201,
+            "CodeID": "code-d40698d5",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "konoin"
+            ],
+            "StringValue": "konoin"
+        },
+        {
+            "DisplayText": "Lugari",
+            "VisibleInCoda": true,
+            "NumericValue": 202,
+            "CodeID": "code-e494f6e9",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "lugari"
+            ],
+            "StringValue": "lugari"
+        },
+        {
+            "DisplayText": "Likuyani",
+            "VisibleInCoda": true,
+            "NumericValue": 203,
+            "CodeID": "code-8d2a6562",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "likuyani"
+            ],
+            "StringValue": "likuyani"
+        },
+        {
+            "DisplayText": "Malava",
+            "VisibleInCoda": true,
+            "NumericValue": 204,
+            "CodeID": "code-bbc733d2",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "Malava"
+            ],
+            "StringValue": "malava"
+        },
+        {
+            "DisplayText": "Lurambi",
+            "VisibleInCoda": true,
+            "NumericValue": 205,
+            "CodeID": "code-fdfbecbe",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "lurambi"
+            ],
+            "StringValue": "lurambi"
+        },
+        {
+            "DisplayText": "Navakholo",
+            "VisibleInCoda": true,
+            "NumericValue": 206,
+            "CodeID": "code-cc4f31e5",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "navakholo"
+            ],
+            "StringValue": "navakholo"
+        },
+        {
+            "DisplayText": "Mumias west",
+            "VisibleInCoda": true,
+            "NumericValue": 207,
+            "CodeID": "code-7f3ffcfd",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mumias west"
+            ],
+            "StringValue": "mumias_west"
+        },
+        {
+            "DisplayText": "Mumias east",
+            "VisibleInCoda": true,
+            "NumericValue": 208,
+            "CodeID": "code-ef1d0d31",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mumias east"
+            ],
+            "StringValue": "mumias_east"
+        },
+        {
+            "DisplayText": "Matungu",
+            "VisibleInCoda": true,
+            "NumericValue": 209,
+            "CodeID": "code-2a6711c1",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "matungu"
+            ],
+            "StringValue": "matungu"
+        },
+        {
+            "DisplayText": "Butere",
+            "VisibleInCoda": true,
+            "NumericValue": 210,
+            "CodeID": "code-e7edf6f7",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "butere"
+            ],
+            "StringValue": "butere"
+        },
+        {
+            "DisplayText": "khwisero",
+            "VisibleInCoda": true,
+            "NumericValue": 211,
+            "CodeID": "code-9e761ec2",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "khwisero"
+            ],
+            "StringValue": "khwisero"
+        },
+        {
+            "DisplayText": "Shinyalu",
+            "VisibleInCoda": true,
+            "NumericValue": 212,
+            "CodeID": "code-d36ebf00",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "shinyalu"
+            ],
+            "StringValue": "shinyalu"
+        },
+        {
+            "DisplayText": "Ikolomani",
+            "VisibleInCoda": true,
+            "NumericValue": 213,
+            "CodeID": "code-8b195658",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "ikolomani"
+            ],
+            "StringValue": "ikolomani"
+        },
+        {
+            "DisplayText": "Vihiga",
+            "VisibleInCoda": true,
+            "NumericValue": 214,
+            "CodeID": "code-5199d1bb",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "vihiga"
+            ],
+            "StringValue": "vihiga"
+        },
+        {
+            "DisplayText": "Sabatia",
+            "VisibleInCoda": true,
+            "NumericValue": 215,
+            "CodeID": "code-770de798",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "sabatia"
+            ],
+            "StringValue": "sabatia"
+        },
+        {
+            "DisplayText": "Hamisi",
+            "VisibleInCoda": true,
+            "NumericValue": 216,
+            "CodeID": "code-028fe818",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "hamisi"
+            ],
+            "StringValue": "hamisi"
+        },
+        {
+            "DisplayText": "Luanda",
+            "VisibleInCoda": true,
+            "NumericValue": 217,
+            "CodeID": "code-6dd450c5",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "luanda"
+            ],
+            "StringValue": "luanda"
+        },
+        {
+            "DisplayText": "Emuhaya",
+            "VisibleInCoda": true,
+            "NumericValue": 218,
+            "CodeID": "code-daaccdee",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "emuhaya"
+            ],
+            "StringValue": "emuhaya"
+        },
+        {
+            "DisplayText": "Teso north",
+            "VisibleInCoda": true,
+            "NumericValue": 219,
+            "CodeID": "code-7915cf6a",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "teso north"
+            ],
+            "StringValue": "teso_north"
+        },
+        {
+            "DisplayText": "Teso south",
+            "VisibleInCoda": true,
+            "NumericValue": 220,
+            "CodeID": "code-bae6b3f8",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "teso south"
+            ],
+            "StringValue": "teso_south"
+        },
+        {
+            "DisplayText": "Nambale",
+            "VisibleInCoda": true,
+            "NumericValue": 221,
+            "CodeID": "code-6297f772",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "nambale"
+            ],
+            "StringValue": "nambale"
+        },
+        {
+            "DisplayText": "Matayos",
+            "VisibleInCoda": true,
+            "NumericValue": 222,
+            "CodeID": "code-e0b1f1a5",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "matayos"
+            ],
+            "StringValue": "matayos"
+        },
+        {
+            "DisplayText": "Butula",
+            "VisibleInCoda": true,
+            "NumericValue": 223,
+            "CodeID": "code-aaff9f31",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "butula"
+            ],
+            "StringValue": "butula"
+        },
+        {
+            "DisplayText": "Funyula",
+            "VisibleInCoda": true,
+            "NumericValue": 224,
+            "CodeID": "code-561b207f",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "funyula"
+            ],
+            "StringValue": "funyula"
+        },
+        {
+            "DisplayText": "Budalangi",
+            "VisibleInCoda": true,
+            "NumericValue": 225,
+            "CodeID": "code-6c64b98d",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "budalangi"
+            ],
+            "StringValue": "budalangi"
+        },
+        {
+            "DisplayText": "Mount elgon",
+            "VisibleInCoda": true,
+            "NumericValue": 226,
+            "CodeID": "code-4549a160",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mount elgon"
+            ],
+            "StringValue": "mount_elgon"
+        },
+        {
+            "DisplayText": "Sirisa",
+            "VisibleInCoda": true,
+            "NumericValue": 227,
+            "CodeID": "code-36448577",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "sirisa"
+            ],
+            "StringValue": "sirisa"
+        },
+        {
+            "DisplayText": "Kabuchai",
+            "VisibleInCoda": true,
+            "NumericValue": 228,
+            "CodeID": "code-ac213faa",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kabuchai"
+            ],
+            "StringValue": "kabuchai"
+        },
+        {
+            "DisplayText": "Bumula",
+            "VisibleInCoda": true,
+            "NumericValue": 229,
+            "CodeID": "code-1aff845e",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "bumula"
+            ],
+            "StringValue": "bumula"
+        },
+        {
+            "DisplayText": "Kandunyi",
+            "VisibleInCoda": true,
+            "NumericValue": 230,
+            "CodeID": "code-1e893419",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kandunyi"
+            ],
+            "StringValue": "kandunyi"
+        },
+        {
+            "DisplayText": "Webuye east",
+            "VisibleInCoda": true,
+            "NumericValue": 231,
+            "CodeID": "code-6c4c352c",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "webuye east"
+            ],
+            "StringValue": "webuye_east"
+        },
+        {
+            "DisplayText": "Webuye west",
+            "VisibleInCoda": true,
+            "NumericValue": 232,
+            "CodeID": "code-75f36166",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "webuye west"
+            ],
+            "StringValue": "webuye_west"
+        },
+        {
+            "DisplayText": "Kimilili",
+            "VisibleInCoda": true,
+            "NumericValue": 233,
+            "CodeID": "code-816566d3",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kimilili"
+            ],
+            "StringValue": "kimilili"
+        },
+        {
+            "DisplayText": "Tongaren",
+            "VisibleInCoda": true,
+            "NumericValue": 234,
+            "CodeID": "code-82ae8ba3",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "tongaren"
+            ],
+            "StringValue": "tongaren"
+        },
+        {
+            "DisplayText": "Ugenya",
+            "VisibleInCoda": true,
+            "NumericValue": 235,
+            "CodeID": "code-f5a6abce",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "ugenya"
+            ],
+            "StringValue": "ugenya"
+        },
+        {
+            "DisplayText": "Ugunja",
+            "VisibleInCoda": true,
+            "NumericValue": 236,
+            "CodeID": "code-caabe734",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "ugunja"
+            ],
+            "StringValue": "ugunja"
+        },
+        {
+            "DisplayText": "Alego usonga",
+            "VisibleInCoda": true,
+            "NumericValue": 237,
+            "CodeID": "code-16b55d8a",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "alego usonga"
+            ],
+            "StringValue": "alego_usonga"
+        },
+        {
+            "DisplayText": "Gem",
+            "VisibleInCoda": true,
+            "NumericValue": 238,
+            "CodeID": "code-ea080d4a",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "gem"
+            ],
+            "StringValue": "gem"
+        },
+        {
+            "DisplayText": "Bondo",
+            "VisibleInCoda": true,
+            "NumericValue": 239,
+            "CodeID": "code-a438eb0e",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "bondo"
+            ],
+            "StringValue": "bondo"
+        },
+        {
+            "DisplayText": "Rarieda",
+            "VisibleInCoda": true,
+            "NumericValue": 240,
+            "CodeID": "code-b6ef8717",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "rarieda"
+            ],
+            "StringValue": "rarieda"
+        },
+        {
+            "DisplayText": "Kisumu east",
+            "VisibleInCoda": true,
+            "NumericValue": 241,
+            "CodeID": "code-79dfbbf2",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kisumu east"
+            ],
+            "StringValue": "kisumu_east"
+        },
+        {
+            "DisplayText": "Kisumu west",
+            "VisibleInCoda": true,
+            "NumericValue": 242,
+            "CodeID": "code-5e81b38c",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kisumu west"
+            ],
+            "StringValue": "kisumu_west"
+        },
+        {
+            "DisplayText": "Kisumu central",
+            "VisibleInCoda": true,
+            "NumericValue": 243,
+            "CodeID": "code-ad359afd",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kisumu central"
+            ],
+            "StringValue": "kisumu_central"
+        },
+        {
+            "DisplayText": "Seme",
+            "VisibleInCoda": true,
+            "NumericValue": 244,
+            "CodeID": "code-0163b9eb",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "seme"
+            ],
+            "StringValue": "seme"
+        },
+        {
+            "DisplayText": "Nyando",
+            "VisibleInCoda": true,
+            "NumericValue": 245,
+            "CodeID": "code-68369cec",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "nyando"
+            ],
+            "StringValue": "nyando"
+        },
+        {
+            "DisplayText": "Muhoroni",
+            "VisibleInCoda": true,
+            "NumericValue": 246,
+            "CodeID": "code-b5bdebbc",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "muhoroni"
+            ],
+            "StringValue": "muhoroni"
+        },
+        {
+            "DisplayText": "Nyakach",
+            "VisibleInCoda": true,
+            "NumericValue": 247,
+            "CodeID": "code-3e3a3ba3",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "nyakach"
+            ],
+            "StringValue": "nyakach"
+        },
+        {
+            "DisplayText": "Kasipul",
+            "VisibleInCoda": true,
+            "NumericValue": 248,
+            "CodeID": "code-39fa4faa",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kasipul"
+            ],
+            "StringValue": "kasipul"
+        },
+        {
+            "DisplayText": "Kaspul kabondo",
+            "VisibleInCoda": true,
+            "NumericValue": 249,
+            "CodeID": "code-8e3ab4c4",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kaspul kabondo"
+            ],
+            "StringValue": "kaspul_kabondo"
+        },
+        {
+            "DisplayText": "Karachuonyo",
+            "VisibleInCoda": true,
+            "NumericValue": 250,
+            "CodeID": "code-5e84a39b",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "karachuonyo"
+            ],
+            "StringValue": "karachuonyo"
+        },
+        {
+            "DisplayText": "Rangwe",
+            "VisibleInCoda": true,
+            "NumericValue": 251,
+            "CodeID": "code-27cc7d52",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "rangwe"
+            ],
+            "StringValue": "rangwe"
+        },
+        {
+            "DisplayText": "Homa bay town",
+            "VisibleInCoda": true,
+            "NumericValue": 252,
+            "CodeID": "code-37d1954a",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "homa bay town"
+            ],
+            "StringValue": "homa_bay_town"
+        },
+        {
+            "DisplayText": "Ndhiwa",
+            "VisibleInCoda": true,
+            "NumericValue": 253,
+            "CodeID": "code-4983601a",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "ndhiwa"
+            ],
+            "StringValue": "ndhiwa"
+        },
+        {
+            "DisplayText": "Mbita",
+            "VisibleInCoda": true,
+            "NumericValue": 254,
+            "CodeID": "code-c24cb56f",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mbita"
+            ],
+            "StringValue": "mbita"
+        },
+        {
+            "DisplayText": "Suba",
+            "VisibleInCoda": true,
+            "NumericValue": 255,
+            "CodeID": "code-7f76391f",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "suba"
+            ],
+            "StringValue": "suba"
+        },
+        {
+            "DisplayText": "Rongo",
+            "VisibleInCoda": true,
+            "NumericValue": 256,
+            "CodeID": "code-aed6b086",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "rongo"
+            ],
+            "StringValue": "rongo"
+        },
+        {
+            "DisplayText": "Awendo",
+            "VisibleInCoda": true,
+            "NumericValue": 257,
+            "CodeID": "code-634b15bc",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "awendo"
+            ],
+            "StringValue": "awendo"
+        },
+        {
+            "DisplayText": "Suna east",
+            "VisibleInCoda": true,
+            "NumericValue": 258,
+            "CodeID": "code-36f6fc35",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "suna east"
+            ],
+            "StringValue": "suna_east"
+        },
+        {
+            "DisplayText": "Suna west",
+            "VisibleInCoda": true,
+            "NumericValue": 259,
+            "CodeID": "code-5f2e0b98",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "suna west"
+            ],
+            "StringValue": "suna_west"
+        },
+        {
+            "DisplayText": "Uriri",
+            "VisibleInCoda": true,
+            "NumericValue": 260,
+            "CodeID": "code-8a077735",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "uriri"
+            ],
+            "StringValue": "uriri"
+        },
+        {
+            "DisplayText": "nyatike",
+            "VisibleInCoda": true,
+            "NumericValue": 261,
+            "CodeID": "code-74643b6b",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "nyatike"
+            ],
+            "StringValue": "nyatike"
+        },
+        {
+            "DisplayText": "Kuria west",
+            "VisibleInCoda": true,
+            "NumericValue": 262,
+            "CodeID": "code-dfd05b20",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kuria west"
+            ],
+            "StringValue": "kuria_west"
+        },
+        {
+            "DisplayText": "Kuria east",
+            "VisibleInCoda": true,
+            "NumericValue": 263,
+            "CodeID": "code-ee7006bc",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kuria east"
+            ],
+            "StringValue": "kuria_east"
+        },
+        {
+            "DisplayText": "Bonchari",
+            "VisibleInCoda": true,
+            "NumericValue": 264,
+            "CodeID": "code-ce931cb7",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "bonchari"
+            ],
+            "StringValue": "bonchari"
+        },
+        {
+            "DisplayText": "South mugirango",
+            "VisibleInCoda": true,
+            "NumericValue": 265,
+            "CodeID": "code-bf4f6b13",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "south mugirango"
+            ],
+            "StringValue": "south_mugirango"
+        },
+        {
+            "DisplayText": "Bomachoge borabu",
+            "VisibleInCoda": true,
+            "NumericValue": 266,
+            "CodeID": "code-452feaa9",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "bomachoge borabu"
+            ],
+            "StringValue": "bomachoge_borabu"
+        },
+        {
+            "DisplayText": "Bobasi",
+            "VisibleInCoda": true,
+            "NumericValue": 267,
+            "CodeID": "code-39257ea9",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "bobasi"
+            ],
+            "StringValue": "bobasi"
+        },
+        {
+            "DisplayText": "Bomachoge chache",
+            "VisibleInCoda": true,
+            "NumericValue": 268,
+            "CodeID": "code-da15ffe8",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "bomachoge chache"
+            ],
+            "StringValue": "bomachoge_chache"
+        },
+        {
+            "DisplayText": "Nyaribari masaba",
+            "VisibleInCoda": true,
+            "NumericValue": 269,
+            "CodeID": "code-5a4492f2",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "nyaribari masabaa"
+            ],
+            "StringValue": "nyaribari_masaba"
+        },
+        {
+            "DisplayText": "Nyaribari chache",
+            "VisibleInCoda": true,
+            "NumericValue": 270,
+            "CodeID": "code-62f2c2a6",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "nyaribari chache"
+            ],
+            "StringValue": "nyaribari_chache"
+        },
+        {
+            "DisplayText": "Kitutu chache north",
+            "VisibleInCoda": true,
+            "NumericValue": 271,
+            "CodeID": "code-db61114a",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kitutu chache north"
+            ],
+            "StringValue": "kitutu_chache_north"
+        },
+        {
+            "DisplayText": "Kitutu chache south",
+            "VisibleInCoda": true,
+            "NumericValue": 272,
+            "CodeID": "code-f590228f",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kitutu chache south"
+            ],
+            "StringValue": "kitutu_chache_south"
+        },
+        {
+            "DisplayText": "Kitutu masaba",
+            "VisibleInCoda": true,
+            "NumericValue": 273,
+            "CodeID": "code-a7785432",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kitutu masaba"
+            ],
+            "StringValue": "kitutu_masaba"
+        },
+        {
+            "DisplayText": "West mugirango",
+            "VisibleInCoda": true,
+            "NumericValue": 274,
+            "CodeID": "code-8b543ced",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "west mugirango"
+            ],
+            "StringValue": "west_mugirango"
+        },
+        {
+            "DisplayText": "North mugirango",
+            "VisibleInCoda": true,
+            "NumericValue": 275,
+            "CodeID": "code-edd6ef38",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "north mugirango"
+            ],
+            "StringValue": "north_mugirango"
+        },
+        {
+            "DisplayText": "Borabu",
+            "VisibleInCoda": true,
+            "NumericValue": 276,
+            "CodeID": "code-629f2d43",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "borabu"
+            ],
+            "StringValue": "borabu"
+        },
+        {
+            "DisplayText": "Westlands",
+            "VisibleInCoda": true,
+            "NumericValue": 277,
+            "CodeID": "code-e18896f5",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "westlands"
+            ],
+            "StringValue": "westlands"
+        },
+        {
+            "DisplayText": "Dagoretti north",
+            "VisibleInCoda": true,
+            "NumericValue": 278,
+            "CodeID": "code-deb1348d",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "Dagoretti north"
+            ],
+            "StringValue": "dagoretti_north"
+        },
+        {
+            "DisplayText": "Dagoretti south",
+            "VisibleInCoda": true,
+            "NumericValue": 279,
+            "CodeID": "code-8719fc72",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "Dagoretti south"
+            ],
+            "StringValue": "dagoretti_south"
+        },
+        {
+            "DisplayText": "Lang`ata",
+            "VisibleInCoda": true,
+            "NumericValue": 280,
+            "CodeID": "code-d3f948bc",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "lang`ata"
+            ],
+            "StringValue": "lang`ata"
+        },
+        {
+            "DisplayText": "Kibra",
+            "VisibleInCoda": true,
+            "NumericValue": 281,
+            "CodeID": "code-71ec3ebc",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kibra"
+            ],
+            "StringValue": "kibra"
+        },
+        {
+            "DisplayText": "Roysambu",
+            "VisibleInCoda": true,
+            "NumericValue": 282,
+            "CodeID": "code-99817580",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "roysambu"
+            ],
+            "StringValue": "roysambu"
+        },
+        {
+            "DisplayText": "Kasarani",
+            "VisibleInCoda": true,
+            "NumericValue": 283,
+            "CodeID": "code-c3a88872",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kasarani"
+            ],
+            "StringValue": "kasarani"
+        },
+        {
+            "DisplayText": "ruaraka",
+            "VisibleInCoda": true,
+            "NumericValue": 284,
+            "CodeID": "code-d04a6a57",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "ruaraka"
+            ],
+            "StringValue": "ruaraka"
+        },
+        {
+            "DisplayText": "Embakasi south",
+            "VisibleInCoda": true,
+            "NumericValue": 285,
+            "CodeID": "code-e70276f2",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "embakasi south"
+            ],
+            "StringValue": "embakasi_south"
+        },
+        {
+            "DisplayText": "Embakasi north",
+            "VisibleInCoda": true,
+            "NumericValue": 286,
+            "CodeID": "code-b12d9bbe",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "embakasi north"
+            ],
+            "StringValue": "embakasi_north"
+        },
+        {
+            "DisplayText": "Embakasi central",
+            "VisibleInCoda": true,
+            "NumericValue": 287,
+            "CodeID": "code-801fa4fe",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "embakasi central"
+            ],
+            "StringValue": "embakasi_central"
+        },
+        {
+            "DisplayText": "Embakasi east",
+            "VisibleInCoda": true,
+            "NumericValue": 288,
+            "CodeID": "code-d6fe5239",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "embakasi east"
+            ],
+            "StringValue": "embakasi_east"
+        },
+        {
+            "DisplayText": "Embakasi west",
+            "VisibleInCoda": true,
+            "NumericValue": 289,
+            "CodeID": "code-733155a9",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "embakasi west"
+            ],
+            "StringValue": "embakasi_west"
+        },
+        {
+            "DisplayText": "Makadara",
+            "VisibleInCoda": true,
+            "NumericValue": 290,
+            "CodeID": "code-94447523",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "makadara"
+            ],
+            "StringValue": "makadara"
+        },
+        {
+            "DisplayText": "Kamukunji",
+            "VisibleInCoda": true,
+            "NumericValue": 291,
+            "CodeID": "code-be535e6e",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "kamukunji"
+            ],
+            "StringValue": "kamukunji"
+        },
+        {
+            "DisplayText": "Starehe",
+            "VisibleInCoda": true,
+            "NumericValue": 292,
+            "CodeID": "code-94039cdb",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "starehe"
+            ],
+            "StringValue": "starehe"
+        },
+        {
+            "DisplayText": "Mathare",
+            "VisibleInCoda": true,
+            "NumericValue": 293,
+            "CodeID": "code-5208e7d4",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "mathare"
+            ],
+            "StringValue": "mathare"
+        },
+        {
+            "DisplayText": "Sotik",
+            "VisibleInCoda": true,
+            "NumericValue": 294,
+            "CodeID": "code-ac044a9a",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "sotik"
+            ],
+            "StringValue": "sotik"
+        },
+        {
+            "DisplayText": "Ainabkoi",
+            "VisibleInCoda": true,
+            "NumericValue": 295,
+            "CodeID": "code-b8bbb7e8",
+            "CodeType": "Normal",
+            "MatchValues": [
+                "ainabkoi"
+            ],
+            "StringValue": "ainabkoi"
+        },
+        {
+
+            "CodeID": "code-NA-f93d3eb7",
+            "NumericValue": -10,
+            "CodeType": "Control",
+            "StringValue": "NA",
+            "ControlCode": "NA",
+            "DisplayText": "NA (missing)",
+            "VisibleInCoda": false
+        },
+        {
+            "CodeType": "Control",
+            "StringValue": "NS",
+            "ControlCode": "NS",
+            "DisplayText": "NS (skip)",
+            "VisibleInCoda": false,
+            "NumericValue": -20,
+            "CodeID": "code-NS-2c11b7c9"
+        },
+        {
+            "CodeType": "Control",
+            "StringValue": "NC",
+            "ControlCode": "NC",
+            "DisplayText": "NC (not coded)",
+            "VisibleInCoda": true,
+            "NumericValue": -30,
+            "CodeID": "code-NC-42f1d983"
+        },
+        {
+            "ControlCode": "NR",
+            "DisplayText": "NR (not reviewed)",
+            "VisibleInCoda": false,
+            "NumericValue": -40,
+            "CodeID": "code-NR-5e3eee23",
+            "CodeType": "Control",
+            "StringValue": "NR"
+        },
+        {
+            "ControlCode": "NIC",
+            "DisplayText": "NIC (not internally consistent)",
+            "VisibleInCoda": false,
+            "NumericValue": -50,
+            "CodeID": "code-NIC-99631cb8",
+            "CodeType": "Control",
+            "StringValue": "NIC"
+        },
+        {
+            "StringValue": "Noise_Other_Project",
+            "ControlCode": "NOP",
+            "DisplayText": "Noise (Other Project)",
+            "VisibleInCoda": true,
+            "CodeID": "code-NOP-4eb70633",
+            "NumericValue": -60,
+            "CodeType": "Control"
+        },
+        {
+            "CodeType": "Control",
+            "StringValue": "STOP",
+            "ControlCode": "STOP",
+            "DisplayText": "STOP",
+            "VisibleInCoda": true,
+            "NumericValue": -90,
+            "CodeID": "code-STOP-08b832a8"
+        },
+        {
+            "NumericValue": -100,
+            "CodeID": "code-WS-adb25603b7af",
+            "CodeType": "Control",
+            "StringValue": "WS",
+            "ControlCode": "WS",
+            "DisplayText": "WS (wrong scheme)",
+            "VisibleInCoda": true
+        }
+    ]
+}
