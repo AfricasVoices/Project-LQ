@@ -1,103 +1,112 @@
 {
-    "SchemeID": "Scheme-d7021b7f",
-    "Name": "Gender",
-    "Version": "0.0.0.1",
-    "Codes": [
-        {
-            "VisibleInCoda": true,
-            "NumericValue": 1,
-            "CodeID": "code-effd30e6",
-            "CodeType": "Normal",
-            "MatchValues": [
-                "male"
-            ],
-            "StringValue": "male",
-            "Shortcut": "m",
-            "DisplayText": "male"
-        },
-        {
-            "StringValue": "female",
-            "Shortcut": "f",
-            "DisplayText": "female",
-            "VisibleInCoda": true,
-            "NumericValue": 2,
-            "CodeID": "code-eb719e0e",
-            "CodeType": "Normal",
-            "MatchValues": [
-                "female"
-            ]
-        },
-        {
-            "VisibleInCoda": false,
-            "NumericValue": -10,
-            "CodeID": "code-NA-f93d3eb7",
-            "CodeType": "Control",
-            "StringValue": "NA",
-            "ControlCode": "NA",
-            "DisplayText": "NA (missing)"
-        },
-        {
-            "StringValue": "NS",
-            "ControlCode": "NS",
-            "DisplayText": "NS (skip)",
-            "VisibleInCoda": false,
-            "NumericValue": -20,
-            "CodeID": "code-NS-2c11b7c9",
-            "CodeType": "Control"
-        },
-        {
-            "DisplayText": "NC (not coded)",
-            "VisibleInCoda": true,
-            "NumericValue": -30,
-            "CodeID": "code-NC-42f1d983",
-            "CodeType": "Control",
-            "StringValue": "NC",
-            "ControlCode": "NC"
-        },
-        {
-            "StringValue": "NR",
-            "ControlCode": "NR",
-            "DisplayText": "NR (not reviewed)",
-            "VisibleInCoda": false,
-            "NumericValue": -40,
-            "CodeID": "code-NR-5e3eee23",
-            "CodeType": "Control"
-        },
-        {
-            "DisplayText": "NIC (not internally consistent)",
-            "VisibleInCoda": false,
-            "NumericValue": -50,
-            "CodeID": "code-NIC-99631cb8",
-            "CodeType": "Control",
-            "StringValue": "NIC",
-            "ControlCode": "NIC"
-        },
-        {
-            "StringValue": "Noise_Other_Project",
-            "ControlCode": "NOP",
-            "DisplayText": "Noise (Other Project)",
-            "VisibleInCoda": true,
-            "CodeID": "code-NOP-4eb70633",
-            "NumericValue": -60,
-            "CodeType": "Control"
-        },
-        {
-            "StringValue": "STOP",
-            "ControlCode": "STOP",
-            "DisplayText": "STOP",
-            "VisibleInCoda": true,
-            "NumericValue": -90,
-            "CodeID": "code-STOP-08b832a8",
-            "CodeType": "Control"
-        },
-        {
-            "NumericValue": -100,
-            "CodeID": "code-WS-adb25603b7af",
-            "CodeType": "Control",
-            "StringValue": "WS",
-            "ControlCode": "WS",
-            "DisplayText": "WS (wrong scheme)",
-            "VisibleInCoda": true
-        }
-    ]
+  "SchemeID": "Scheme-d7021b7f",
+  "Name": "Gender",
+  "Version": "0.0.0.1",
+  "Codes": [
+    {
+      "VisibleInCoda": true,
+      "NumericValue": 1,
+      "CodeID": "code-effd30e6",
+      "CodeType": "Normal",
+      "MatchValues": [
+        "male"
+      ],
+      "StringValue": "male",
+      "Shortcut": "m",
+      "DisplayText": "male"
+    },
+    {
+      "StringValue": "female",
+      "Shortcut": "f",
+      "DisplayText": "female",
+      "VisibleInCoda": true,
+      "NumericValue": 2,
+      "CodeID": "code-eb719e0e",
+      "CodeType": "Normal",
+      "MatchValues": [
+        "female"
+      ]
+    },
+    {
+      "VisibleInCoda": false,
+      "NumericValue": -10,
+      "CodeID": "code-NA-f93d3eb7",
+      "CodeType": "Control",
+      "StringValue": "NA",
+      "ControlCode": "NA",
+      "DisplayText": "NA (missing)"
+    },
+    {
+      "StringValue": "NS",
+      "ControlCode": "NS",
+      "DisplayText": "NS (skip)",
+      "VisibleInCoda": false,
+      "NumericValue": -20,
+      "CodeID": "code-NS-2c11b7c9",
+      "CodeType": "Control"
+    },
+    {
+      "DisplayText": "NC (not coded)",
+      "VisibleInCoda": true,
+      "NumericValue": -30,
+      "CodeID": "code-NC-42f1d983",
+      "CodeType": "Control",
+      "StringValue": "NC",
+      "ControlCode": "NC"
+    },
+    {
+      "StringValue": "NR",
+      "ControlCode": "NR",
+      "DisplayText": "NR (not reviewed)",
+      "VisibleInCoda": false,
+      "NumericValue": -40,
+      "CodeID": "code-NR-5e3eee23",
+      "CodeType": "Control"
+    },
+    {
+      "DisplayText": "NIC (not internally consistent)",
+      "VisibleInCoda": false,
+      "NumericValue": -50,
+      "CodeID": "code-NIC-99631cb8",
+      "CodeType": "Control",
+      "StringValue": "NIC",
+      "ControlCode": "NIC"
+    },
+    {
+      "StringValue": "Noise_Other_Project",
+      "ControlCode": "NOP",
+      "DisplayText": "Noise (Other Project)",
+      "VisibleInCoda": true,
+      "CodeID": "code-NOP-4eb70633",
+      "NumericValue": -60,
+      "CodeType": "Control"
+    },
+    {
+      "StringValue": "STOP",
+      "ControlCode": "STOP",
+      "DisplayText": "STOP",
+      "VisibleInCoda": true,
+      "NumericValue": -90,
+      "CodeID": "code-STOP-08b832a8",
+      "CodeType": "Control"
+    },
+    {
+      "NumericValue": -100,
+      "CodeID": "code-WS-adb25603b7af",
+      "CodeType": "Control",
+      "StringValue": "WS",
+      "ControlCode": "WS",
+      "DisplayText": "WS (wrong scheme)",
+      "VisibleInCoda": true
+    },
+    {
+      "NumericValue": -110,
+      "CodeID": "code-CE-016c1e22",
+      "CodeType": "Control",
+      "StringValue": "CE",
+      "ControlCode": "CE",
+      "DisplayText": "CE (coding error)",
+      "VisibleInCoda": false
+    }
+  ]
 }
