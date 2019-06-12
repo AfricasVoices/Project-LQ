@@ -50,6 +50,15 @@
       "VisibleInCoda": false
     },
     {
+      "CodeID": "code-NOP-4eb70633",
+      "CodeType": "Control",
+      "ControlCode": "NOP",
+      "DisplayText": "Noise (Other Project)",
+      "NumericValue": -60,
+      "StringValue": "Noise_Other_Project",
+      "VisibleInCoda": true
+    },
+    {
       "CodeID": "code-STOP-08b832a8",
       "CodeType": "Control",
       "ControlCode": "STOP",
