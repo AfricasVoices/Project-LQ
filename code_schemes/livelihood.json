@@ -368,13 +368,13 @@
       "VisibleInCoda": false
     },
     {
-      "CodeID": "code-NOP-4eb70633",
-      "StringValue": "Noise_Other_Project",
-      "ControlCode": "NOP",
-      "DisplayText": "Noise (Other Project)",
+      "CodeID": "code-NOC-e38423ed",
+      "CodeType": "Control",
+      "ControlCode": "NOC",
+      "DisplayText": "NOC (Noise Other Channel)",
+      "StringValue": "NOC",
       "VisibleInCoda": true,
-      "NumericValue": -60,
-      "CodeType": "Control"
+      "NumericValue": -70
     },
     {
       "CodeID": "code-STOP-08b832a8",

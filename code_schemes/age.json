@@ -1039,13 +1039,13 @@
       "CodeType": "Control"
     },
     {
-      "StringValue": "Noise_Other_Project",
-      "ControlCode": "NOP",
-      "DisplayText": "Noise (Other Project)",
+      "CodeID": "code-NOC-e38423ed",
+      "CodeType": "Control",
+      "ControlCode": "NOC",
+      "DisplayText": "NOC (Noise Other Channel)",
+      "StringValue": "NOC",
       "VisibleInCoda": true,
-      "CodeID": "code-NOP-4eb70633",
-      "NumericValue": -60,
-      "CodeType": "Control"
+      "NumericValue": -70
     },
     {
       "StringValue": "STOP",
