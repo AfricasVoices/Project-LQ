@@ -1,0 +1,80 @@
+{
+  "SchemeID": "Scheme-fffff7ac",
+  "Name": "WS - Correct Dataset",
+  "Version": "0.0.0.1",
+  "Codes": [
+    {
+      "CodeID": "code-298c73c4",
+      "CodeType": "Normal",
+      "DisplayText": "location",
+      "StringValue": "location",
+      "NumericValue": 1,
+      "VisibleInCoda": true,
+      "MatchValues": [
+        "location"
+      ]
+    },
+    {
+      "CodeID": "code-1e239eab",
+      "CodeType": "Normal",
+      "DisplayText": "gender",
+      "StringValue": "gender",
+      "NumericValue": 2,
+      "VisibleInCoda": true,
+      "MatchValues": [
+        "gender"
+      ]
+    },
+    {
+      "CodeID": "code-a002ed93",
+      "CodeType": "Normal",
+      "DisplayText": "age",
+      "StringValue": "age",
+      "NumericValue": 3,
+      "VisibleInCoda": true,
+      "MatchValues": [
+        "age"
+      ]
+    },
+    {
+      "CodeID": "code-f2d741f0",
+      "CodeType": "Normal",
+      "DisplayText": "livelihood",
+      "StringValue": "livelihood",
+      "NumericValue": 4,
+      "VisibleInCoda": true,
+      "MatchValues": [
+        "livelihood"
+      ]
+    },
+    {
+      "CodeID": "code-8da3bedb",
+      "CodeType": "Normal",
+      "DisplayText": "s01e01",
+      "StringValue": "s01e01",
+      "NumericValue": 5,
+      "VisibleInCoda": true,
+      "MatchValues": [
+        "s01e01"
+      ]
+    },
+    {
+      "CodeID": "code-NR-5e3eee23",
+      "CodeType": "Control",
+      "ControlCode": "NR",
+      "DisplayText": "NR (not reviewed)",
+      "NumericValue": -40,
+      "StringValue": "NR",
+      "VisibleInCoda": false
+    },
+    {
+      "CodeID": "code-CE-016c1e22",
+      "CodeType": "Control",
+      "ControlCode": "CE",
+      "DisplayText": "CE (coding error)",
+      "NumericValue": -110,
+      "StringValue": "CE",
+      "VisibleInCoda": false
+    }
+  ]
+}
