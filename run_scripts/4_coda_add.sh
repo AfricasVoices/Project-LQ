@@ -16,7 +16,12 @@ DATA_ROOT=$3
 
 PROJECT_NAME="LQ"
 DATASETS=(
+    "s01e01"
 
+    "location"
+    "gender"
+    "age"
+    "livelihood"
 )
 
 cd "$CODA_V2_ROOT/data_tools"
