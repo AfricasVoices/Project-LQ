@@ -1,11 +1,11 @@
 {
   "RapidProDomain": "textit.in",
-  "RapidProTokenFileURL": "gs://avf-credentials/lq-text-it-token.txt",
+  "RapidProTokenFileURL": "gs://avf-credentials/icraf-text-it-token.txt",
   "ActivationFlowNames": [
     "lq_s01e01_activation"
   ],
   "SurveyFlowNames": [
-    "lq_demog"
+    "icraf_s01_demogs"
   ],
   "RapidProTestContactUUIDs": [
 
