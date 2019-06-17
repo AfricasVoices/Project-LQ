@@ -95,7 +95,7 @@
       "NumericValue": 8,
       "CodeID": "code-211b8756",
       "MatchValues": [
-        "nyeri"
+        "nyeri town"
       ],
       "CodeType": "Normal",
       "StringValue": "nyeri_town",
@@ -200,39 +200,6 @@
       "StringValue": "maragwa",
       "DisplayText": "maragwa",
       "VisibleInCoda": true
-    },
-    {
-      "DisplayText": "nyeri county",
-      "VisibleInCoda": true,
-      "NumericValue": 18,
-      "CodeID": "code-9f7f9712",
-      "CodeType": "Normal",
-      "MatchValues": [
-        "nyeri county"
-      ],
-      "StringValue": "nyeri_county"
-    },
-    {
-      "DisplayText": "kirinyaga county",
-      "VisibleInCoda": true,
-      "NumericValue": 19,
-      "CodeID": "code-6ff5616f",
-      "CodeType": "Normal",
-      "MatchValues": [
-        "kirinyaga_county"
-      ],
-      "StringValue": "kirinyaga_county"
-    },
-    {
-      "DisplayText": "muranga county",
-      "VisibleInCoda": true,
-      "NumericValue": 20,
-      "CodeID": "code-607bec6c",
-      "CodeType": "Normal",
-      "MatchValues": [
-        "muranga county"
-      ],
-      "StringValue": "muranga_county"
     },
     {
       "DisplayText": "Changamwe",
