@@ -16,7 +16,6 @@ class CodeSchemes(object):
     S01E01_REASONS = _open_scheme("s01e01_reasons.json")
 
     AGE = _open_scheme("age.json")
-    LIVELIHOOD = _open_scheme("livelihood.json")
     GENDER = _open_scheme("gender.json")
     CONSTITUENCY = _open_scheme("constituency.json")
     COUNTY = _open_scheme("county.json")
@@ -102,14 +101,7 @@ class PipelineConfiguration(object):
                    coda_filename="age.json",
                    analysis_file_key="age",
                    cleaner=lambda text: PipelineConfiguration.clean_age_with_range_filter(text),
-                   code_scheme=CodeSchemes.AGE),
-
-        CodingPlan(raw_field="livelihood_raw",
-                   coded_field="livelihood_coded",
-                   time_field="livelihood_time",
-                   coda_filename="livelihood.json",
-                   analysis_file_key="livelihood",
-                   code_scheme=CodeSchemes.LIVELIHOOD)
+                   code_scheme=CodeSchemes.AGE)
     ])
 
     def __init__(self, rapid_pro_domain, rapid_pro_token_file_url, activation_flow_names, survey_flow_names,
