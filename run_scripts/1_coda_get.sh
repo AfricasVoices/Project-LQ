@@ -21,7 +21,6 @@ DATASETS=(
     "location"
     "gender"
     "age"
-    "livelihood"
 )
 
 cd "$CODA_V2_ROOT/data_tools"
