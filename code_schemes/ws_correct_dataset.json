@@ -37,17 +37,6 @@
       ]
     },
     {
-      "CodeID": "code-f2d741f0",
-      "CodeType": "Normal",
-      "DisplayText": "livelihood",
-      "StringValue": "livelihood",
-      "NumericValue": 4,
-      "VisibleInCoda": true,
-      "MatchValues": [
-        "livelihood"
-      ]
-    },
-    {
       "CodeID": "code-8da3bedb",
       "CodeType": "Normal",
       "DisplayText": "s01e01",
