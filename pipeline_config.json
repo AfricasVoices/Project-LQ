@@ -15,7 +15,20 @@
     "TableName": "LQ_phone_number_avf_phone_id"
   },
   "RapidProKeyRemappings": [
+    {"RapidProKey": "avf_phone_id", "PipelineKey": "uid"},
 
+    {"RapidProKey": "Rqa_S01_E01 (Value) - lq_s01_e01_activation", "PipelineKey": "rqa_s01e01_raw"},
+    {"RapidProKey": "Rqa_S01_E01 (Run ID) - lq_s01_e01_activation", "PipelineKey": "rqa_s01e01_run_id"},
+    {"RapidProKey": "Rqa_S01_E01 (Time) - lq_s01_e01_activation", "PipelineKey": "sent_on"},
+
+    {"RapidProKey": "Constituency (Value) - lq_s01_demogs", "PipelineKey": "location_raw"},
+    {"RapidProKey": "Constituency (Time) - lq_s01_demogs", "PipelineKey": "location_time"},
+    {"RapidProKey": "Gender (Value) - lq_s01_demogs", "PipelineKey": "gender_raw"},
+    {"RapidProKey": "Gender (Time) - lq_s01_demogs", "PipelineKey": "gender_time"},
+    {"RapidProKey": "Age (Value) - lq_s01_demogs", "PipelineKey": "age_raw"},
+    {"RapidProKey": "Age (Time) - lq_s01_demogs", "PipelineKey": "age_time"},
+    {"RapidProKey": "Livelihood (Value) - lq_s01_demogs", "PipelineKey": "livelihood_raw"},
+    {"RapidProKey": "Livelihood (Time) - lq_s01_demogs", "PipelineKey": "livelihood_time"}
   ],
   "ProjectStartDate": "2000-01-01T00:00:00+03:00",
   "ProjectEndDate": "2100-01-01T24:00:00+03:00",
