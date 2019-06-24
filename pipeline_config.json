@@ -26,9 +26,7 @@
     {"RapidProKey": "Gender (Value) - lq_s01_demogs", "PipelineKey": "gender_raw"},
     {"RapidProKey": "Gender (Time) - lq_s01_demogs", "PipelineKey": "gender_time"},
     {"RapidProKey": "Age (Value) - lq_s01_demogs", "PipelineKey": "age_raw"},
-    {"RapidProKey": "Age (Time) - lq_s01_demogs", "PipelineKey": "age_time"},
-    {"RapidProKey": "Livelihood (Value) - lq_s01_demogs", "PipelineKey": "livelihood_raw"},
-    {"RapidProKey": "Livelihood (Time) - lq_s01_demogs", "PipelineKey": "livelihood_time"}
+    {"RapidProKey": "Age (Time) - lq_s01_demogs", "PipelineKey": "age_time"}
   ],
   "ProjectStartDate": "2000-01-01T00:00:00+03:00",
   "ProjectEndDate": "2100-01-01T24:00:00+03:00",
