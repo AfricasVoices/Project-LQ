@@ -40,7 +40,7 @@
     {"RapidProKey": "Age (Time) - lq_s01_demogs", "PipelineKey": "age_time"}
   ],
   "ProjectStartDate": "2019-06-23T00:00:00+03:00",
-  "ProjectEndDate": "2100-01-01T24:00:00+03:00",
+  "ProjectEndDate": "2019-06-29T24:00:00+03:00",
   "FilterTestMessages": true,
   "DriveUpload": {
     "DriveCredentialsFileURL": "gs://avf-credentials/pipeline-runner-service-acct-avf-data-core-64cc71459fe7.json",
