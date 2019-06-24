@@ -8,7 +8,18 @@
     "lq_s01_demogs"
   ],
   "RapidProTestContactUUIDs": [
-
+    "2393744c-eb4f-465f-b65c-9c495f6c2b32",
+    "934e5865-4a7a-41b5-a76f-6ebb54d6810e",
+    "2fec9395-c81a-4e64-b468-a6c6ac8b111f",
+    "3bc11056-8ecc-487a-ada8-bd45de8a2951",
+    "04713cdc-364a-455a-911d-95103e9e49c8",
+    "c5e60cd9-b4c0-4a17-b21c-8aa62c86c7f8",
+    "dce8b344-aa48-4ffb-864a-90b4f050d64d",
+    "ab9aba72-4ca2-445e-b7cf-3cc951536043",
+    "a01bb8cc-9e6d-4b35-a896-ff382cb59103",
+    "1519d5c9-741f-4533-b374-c1cc8d1aa931",
+    "ac214095-0b42-43d1-9e80-fddf85f4d3c5",
+    "1519d5c9-741f-4533-b374-c1cc8d1aa931"
   ],
   "PhoneNumberUuidTable": {
     "FirebaseCredentialsFileURL": "gs://avf-credentials/avf-id-infrastructure-firebase-adminsdk-6xps8-b9173f2bfd.json",
