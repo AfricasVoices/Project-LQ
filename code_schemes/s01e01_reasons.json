@@ -3,87 +3,277 @@
   "Name": "S01E01 Reasons",
   "Version": "0.0.0.1",
   "Codes": [
-
     {
-      "CodeID": "code-NA-f93d3eb7",
-      "CodeType": "Control",
-      "ControlCode": "NA",
-      "DisplayText": "NA (missing)",
-      "NumericValue": -10,
-      "StringValue": "NA",
-      "VisibleInCoda": false
-    },
-    {
-      "CodeID": "code-NS-2c11b7c9",
-      "CodeType": "Control",
-      "ControlCode": "NS",
-      "DisplayText": "NS (skip)",
-      "NumericValue": -20,
-      "StringValue": "NS",
-      "VisibleInCoda": false
-    },
-    {
-      "CodeID": "code-NC-42f1d983",
-      "CodeType": "Control",
-      "ControlCode": "NC",
-      "DisplayText": "NC (not coded)",
-      "NumericValue": -30,
-      "StringValue": "NC",
+      "CodeID": "code-98847474a596", 
+      "CodeType": "Normal", 
+      "DisplayText": "Yes -  she's smart", 
+      "NumericValue": 0, 
+      "StringValue": "yes__shes_smart", 
       "VisibleInCoda": true
-    },
+    }, 
     {
-      "CodeID": "code-NR-5e3eee23",
-      "CodeType": "Control",
-      "ControlCode": "NR",
-      "DisplayText": "NR (not reviewed)",
-      "NumericValue": -40,
-      "StringValue": "NR",
-      "VisibleInCoda": false
-    },
-    {
-      "CodeID": "code-NIC-99631cb8",
-      "CodeType": "Control",
-      "ControlCode": "NIC",
-      "DisplayText": "NIC (not internally consistent)",
-      "NumericValue": -50,
-      "StringValue": "NIC",
-      "VisibleInCoda": false
-    },
-    {
-      "CodeID": "code-NOC-e38423ed",
-      "CodeType": "Control",
-      "ControlCode": "NOC",
-      "DisplayText": "NOC (Noise Other Channel)",
-      "StringValue": "NOC",
-      "VisibleInCoda": true,
-      "NumericValue": -70
-    },
-    {
-      "CodeID": "code-STOP-08b832a8",
-      "CodeType": "Control",
-      "ControlCode": "STOP",
-      "DisplayText": "STOP",
-      "NumericValue": -90,
-      "StringValue": "STOP",
+      "CodeID": "code-aca463af3f88", 
+      "CodeType": "Normal", 
+      "DisplayText": "Yes -  to stay safe from infection", 
+      "NumericValue": 1, 
+      "StringValue": "yes__to_stay_safe_from_infection", 
       "VisibleInCoda": true
-    },
+    }, 
     {
-      "CodeID": "code-WS-adb25603b7af",
-      "CodeType": "Control",
-      "ControlCode": "WS",
-      "DisplayText": "WS (wrong scheme)",
-      "NumericValue": -100,
-      "StringValue": "WS",
+      "CodeID": "code-e9fdab3d6a11", 
+      "CodeType": "Normal", 
+      "DisplayText": "Yes -  condoms are the best contraception (less side effects -  more protection)", 
+      "NumericValue": 2, 
+      "StringValue": "yes__condoms_are_the_best_contraception_less_side_effects__more_protection", 
       "VisibleInCoda": true
-    },
+    }, 
     {
-      "CodeID": "code-CE-016c1e22",
-      "CodeType": "Control",
-      "ControlCode": "CE",
-      "DisplayText": "CE (coding error)",
-      "NumericValue": -110,
-      "StringValue": "CE",
+      "CodeID": "code-d66b9c235dc0", 
+      "CodeType": "Normal", 
+      "DisplayText": "Yes but... smart -  but because she's not trapping her boyfriend", 
+      "NumericValue": 3, 
+      "StringValue": "yes_but_smart__but_because_shes_not_trapping_her_boyfriend", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-4289cbcf2232", 
+      "CodeType": "Normal", 
+      "DisplayText": "Yes -  she's smart and this is self-love", 
+      "NumericValue": 4, 
+      "StringValue": "yes__shes_smart_and_this_is_selflove", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-15646ac95327", 
+      "CodeType": "Normal", 
+      "DisplayText": "Yes -  but her partner should agree", 
+      "NumericValue": 5, 
+      "StringValue": "yes__but_her_partner_should_agree", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-10c8cda6c91d", 
+      "CodeType": "Normal", 
+      "DisplayText": "Yes -  my girlfriend does and I support", 
+      "NumericValue": 6, 
+      "StringValue": "yes__my_girlfriend_does_and_i_support", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-371bb6be7fbb", 
+      "CodeType": "Normal", 
+      "DisplayText": "Yes -  because it's my duty to remind my boyfriend", 
+      "NumericValue": 7, 
+      "StringValue": "yes__because_its_my_duty_to_remind_my_boyfriend", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-045bc1a5acdc", 
+      "CodeType": "Normal", 
+      "DisplayText": "Yes but .... she should use contraception -  but i don't use condoms", 
+      "NumericValue": 8, 
+      "StringValue": "yes_but__she_should_use_contraception__but_i_dont_use_condoms", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-78402053a31a", 
+      "CodeType": "Normal", 
+      "DisplayText": "Yes -  because she's not yet married", 
+      "NumericValue": 9, 
+      "StringValue": "yes__because_shes_not_yet_married", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-17937bd46d4c", 
+      "CodeType": "Normal", 
+      "DisplayText": "Yes -  to stay safe from pregnancy", 
+      "NumericValue": 10, 
+      "StringValue": "yes__to_stay_safe_from_pregnancy", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-0afe80aea686", 
+      "CodeType": "Normal", 
+      "DisplayText": "Yes -  other", 
+      "NumericValue": 11, 
+      "StringValue": "yes__other", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-ce097a0d6add", 
+      "CodeType": "Normal", 
+      "DisplayText": "No -  contraceptives aren't acceptable", 
+      "NumericValue": 12, 
+      "StringValue": "no__contraceptives_arent_acceptable", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-60f41c3539a8", 
+      "CodeType": "Normal", 
+      "DisplayText": "No -  condoms are risky -  other contraception better", 
+      "NumericValue": 13, 
+      "StringValue": "no__condoms_are_risky__other_contraception_better", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-e56c615ec091", 
+      "CodeType": "Normal", 
+      "DisplayText": "No -  contraception is a sign of cheating", 
+      "NumericValue": 14, 
+      "StringValue": "no__contraception_is_a_sign_of_cheating", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-84f99565bc25", 
+      "CodeType": "Normal", 
+      "DisplayText": "No -  girls don't like condoms", 
+      "NumericValue": 15, 
+      "StringValue": "no__girls_dont_like_condoms", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-bf415b0ca721", 
+      "CodeType": "Normal", 
+      "DisplayText": "No -  condoms aren't enjoyable", 
+      "NumericValue": 16, 
+      "StringValue": "no__condoms_arent_enjoyable", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-7725bff78765", 
+      "CodeType": "Normal", 
+      "DisplayText": "No -  condoms are risky -  better to abstain", 
+      "NumericValue": 17, 
+      "StringValue": "no__condoms_are_risky__better_to_abstain", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-adbd9db7e4fd", 
+      "CodeType": "Normal", 
+      "DisplayText": "No -  other", 
+      "NumericValue": 18, 
+      "StringValue": "no__other", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-5791ebc8d782", 
+      "CodeType": "Normal", 
+      "DisplayText": "Question -  general knowledge", 
+      "NumericValue": 19, 
+      "StringValue": "question__general_knowledge", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-a57fc55d9973", 
+      "CodeType": "Normal", 
+      "DisplayText": "Question -  safety or health associated with contraceptives", 
+      "NumericValue": 20, 
+      "StringValue": "question__safety_or_health_associated_with_contraceptives", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-57c070e9ca5c", 
+      "CodeType": "Normal", 
+      "DisplayText": "Question -  others' attitude", 
+      "NumericValue": 21, 
+      "StringValue": "question__others_attitude", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-9bf000a21e42", 
+      "CodeType": "Normal", 
+      "DisplayText": "Question -  about SRH in general", 
+      "NumericValue": 22, 
+      "StringValue": "question__about_srh_in_general", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-fac5aad04a52", 
+      "CodeType": "Normal", 
+      "DisplayText": "Question -  other", 
+      "NumericValue": 23, 
+      "StringValue": "question__other", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-NA-f93d3eb7", 
+      "CodeType": "Control", 
+      "ControlCode": "NA", 
+      "DisplayText": "NA (missing)", 
+      "NumericValue": -10, 
+      "StringValue": "NA", 
       "VisibleInCoda": false
-    }
-  ]
+    }, 
+    {
+      "CodeID": "code-NS-2c11b7c9", 
+      "CodeType": "Control", 
+      "ControlCode": "NS", 
+      "DisplayText": "NS (skip)", 
+      "NumericValue": -20, 
+      "StringValue": "NS", 
+      "VisibleInCoda": false
+    }, 
+    {
+      "CodeID": "code-NC-42f1d983", 
+      "CodeType": "Control", 
+      "ControlCode": "NC", 
+      "DisplayText": "NC (not coded)", 
+      "NumericValue": -30, 
+      "StringValue": "NC", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-NR-5e3eee23", 
+      "CodeType": "Control", 
+      "ControlCode": "NR", 
+      "DisplayText": "NR (not reviewed)", 
+      "NumericValue": -40, 
+      "StringValue": "NR", 
+      "VisibleInCoda": false
+    }, 
+    {
+      "CodeID": "code-NIC-99631cb8", 
+      "CodeType": "Control", 
+      "ControlCode": "NIC", 
+      "DisplayText": "NIC (not internally consistent)", 
+      "NumericValue": -50, 
+      "StringValue": "NIC", 
+      "VisibleInCoda": false
+    }, 
+    {
+      "CodeID": "code-NOC-e38423ed", 
+      "CodeType": "Control", 
+      "ControlCode": "NOC", 
+      "DisplayText": "NOC (Noise Other Channel)", 
+      "NumericValue": -70, 
+      "StringValue": "NOC", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-STOP-08b832a8", 
+      "CodeType": "Control", 
+      "ControlCode": "STOP", 
+      "DisplayText": "STOP", 
+      "NumericValue": -90, 
+      "StringValue": "STOP", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-WS-adb25603b7af", 
+      "CodeType": "Control", 
+      "ControlCode": "WS", 
+      "DisplayText": "WS (wrong scheme)", 
+      "NumericValue": -100, 
+      "StringValue": "WS", 
+      "VisibleInCoda": true
+    }, 
+    {
+      "CodeID": "code-CE-016c1e22", 
+      "CodeType": "Control", 
+      "ControlCode": "CE", 
+      "DisplayText": "CE (coding error)", 
+      "NumericValue": -110, 
+      "StringValue": "CE", 
+      "VisibleInCoda": false
+    }  ]
 }
